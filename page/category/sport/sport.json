@@ -1,0 +1,803 @@
+[
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué selección ganó el Mundial de fútbol de Brasil en el 2014?",
+        "respuesta": "Alemania",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Brasil",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es el mejor jugador de ajedrez actualmente?",
+        "respuesta": "Magnus Carlsen",
+        "incorrecta1": "Fabian Caruana",
+        "incorrecta2": "Veselin Topalov",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién se proclamó como campeón del mundo en 2017 en la categoría de MotoGP?",
+        "respuesta": "Marc Márquez",
+        "incorrecta1": "Steve Baker",
+        "incorrecta2": "Johnny Cecotto",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "El Camp Nou es uno de los estadios de fútbol más conocidos del mundo. ¿En qué ciudad se encuentra?",
+        "respuesta": "Barcelona",
+        "incorrecta1": "Valencia",
+        "incorrecta2": "Madrid",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué año se celebró el primer Mundial de fútbol?",
+        "respuesta": "1930",
+        "incorrecta1": "1942",
+        "incorrecta2": "1934",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador es considerado el mejor de la historia en baloncesto?",
+        "respuesta": "Michael Jordan",
+        "incorrecta1": "Kevin Durant",
+        "incorrecta2": "Stephen Curry",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Un atleta posee los récords mundiales de velocidad de 100 y 200 metros lisos. ¿Quién es?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "Eline Thompson",
+        "incorrecta2": "Andre de Grasse",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué selección ha ganado más mundiales de fútbol?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "España",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Mestalla es un estadio de fútbol que se encuentra en España. ¿En qué ciudad?",
+        "respuesta": "Valencia",
+        "incorrecta1": "Madrid",
+        "incorrecta2": "Barcelona",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Lionel Messi es un futbolista argentino. ¿En qué ciudad nació?",
+        "respuesta": "Rosario",
+        "incorrecta1": "CABA",
+        "incorrecta2": "Senta Fe",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué ciudad nació Valentino Rossi?",
+        "respuesta": "Urbino",
+        "incorrecta1": "Milán",
+        "incorrecta2": "Venecia",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "El boxeo tailandés es el nombre que recibe popularmente una de las artes marciales más peligrosas que existen, ¿cuál es?",
+        "respuesta": "Muay thai",
+        "incorrecta1": "Judo",
+        "incorrecta2": "Boxeo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "David Beckham jugó en el año 2007 en un equipo de Estados Unidos. ¿Cuál?",
+        "respuesta": "Los Angeles Galaxy",
+        "incorrecta1": "Real Madrid CF",
+        "incorrecta2": "Milan",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué país es más popular el juego de los dardos?",
+        "respuesta": "Gran Bretaña",
+        "incorrecta1": "Russia",
+        "incorrecta2": "Irlanda",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué colores componen los anillos olímpicos?",
+        "respuesta": "Negro, rojo, azul, amarillo y verde",
+        "incorrecta1": "Rosa, Negro, Celeste, Amarillo y Verde",
+        "incorrecta2": "Verde, Celeste, Violesta, Amarillo y Negro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "Un combate de boxeo en los Juegos Olímpicos se divide en rounds. ¿En cuántos?",
+        "respuesta": "Tres",
+        "incorrecta1": "Seis",
+        "incorrecta2": "Doce",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién popularizó el movimiento futbolístico ''Gravesinha''?",
+        "respuesta": "Thomas Gravesen",
+        "incorrecta1": "Neymar Jr.",
+        "incorrecta2": "Johan Cruyff",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el deporte más popular en la India?",
+        "respuesta": "Críquet",
+        "incorrecta1": "Hockey",
+        "incorrecta2": "Kabaddi ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué tenista masculino cuenta con más Grand Slams? ¿Y qué tenista femenina?",
+        "respuesta": "Roger Federer y Margaret Court",
+        "incorrecta1": "Rafael Nadal y Pete Sampras",
+        "incorrecta2": "Guillermo Vilas y Jan Kodes",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué mujer fue la primera en ganar una medalla olímpica?",
+        "respuesta": "Charlotte Cooper",
+        "incorrecta1": "Susana Peper",
+        "incorrecta2": "Yulimar Rojas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue la primera persona en obtener una calificación de diez puntos (calificación perfecta) en una competición olímpica de gimnasia artística?",
+        "respuesta": "Nadia Comăneci",
+        "incorrecta1": "Simone Biles",
+        "incorrecta2": "Angelina Melnikova",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué apodo recibe el esquiador Michael Thomas Edwards?",
+        "respuesta": "Eddie el Águila",
+        "incorrecta1": "El contrapunto de Schneider ",
+        "incorrecta2": "El hombre récord",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué baile tiene su origen en un arte marcial?",
+        "respuesta": "La capoeira",
+        "incorrecta1": "Judo",
+        "incorrecta2": "Karate",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo de la NBA estuvo Manu Ginobili entre 2002 y 2018?",
+        "respuesta": "San Antonio Spurs",
+        "incorrecta1": "Los Angeles Lakers",
+        "incorrecta2": "Chicago Bulls",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién se considera el mejor golfista de todos los tiempos?",
+        "respuesta": "Jack Nicklaus",
+        "incorrecta1": "Tiger Woods",
+        "incorrecta2": "Jon Rahm",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué año se celebró la primera Copa Mundial de Fútbol?",
+        "respuesta": "1930",
+        "incorrecta1": "1972",
+        "incorrecta2": "1956",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue el campeón mundial de ajedrez entre los años 1972 y 1974?",
+        "respuesta": "Bobby Fischer",
+        "incorrecta1": "Emanuel Lasker",
+        "incorrecta2": "Mikhail Botvinnik",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
+        "respuesta": "Michael Jordan",
+        "incorrecta1": "LeBron James",
+        "incorrecta2": "Nikola Jokic´",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue la primera mujer en ganar una medalla olímpica?",
+        "respuesta": "Charlotte Cooper",
+        "incorrecta1": "Ariarne Titmus",
+        "incorrecta2": "Elaine Thompson-Herah",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué atleta tiene el récord plusmarca de velocidad en los 100 metros lisos?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "Jan Zelezny",
+        "incorrecta2": "Hicham el Guerrouj",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue Cobi?",
+        "respuesta": "Mascota de los Juegos Olímpicos",
+        "incorrecta1": "un jugador de NBA",
+        "incorrecta2": "Entenador de Futbol",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué ajedrecista cubano fue campeón mundial de esta disciplina entre 1921 y 1927?",
+        "respuesta": "José Raúl Capablanca",
+        "incorrecta1": "Lázaro Bruzón",
+        "incorrecta2": "Leinier Dominguez",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué ciudad española está el estadio de fútbol de Mestalla?",
+        "respuesta": "Valencia",
+        "incorrecta1": "Tarrasa",
+        "incorrecta2": "Sitges",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué tenista nacida en 1956 ganó 18 títulos de Grand Slam?",
+        "respuesta": "Martina Navratilova",
+        "incorrecta1": "Margaret Court",
+        "incorrecta2": "Roger Federer",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué deporte jugado con un bate y una pelota es el más popular en la India?",
+        "respuesta": "Críquet",
+        "incorrecta1": "El Kabaddi",
+        "incorrecta2": "El Bádminton",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué ciudad nació el futbolista Lionel Messi?",
+        "respuesta": "Rosario",
+        "incorrecta1": "Sante Fé",
+        "incorrecta2": "Corriente",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Con qué apodo se conoce al esquiador británico Michael Thomas Edwards?",
+        "respuesta": "Eddie el Águila",
+        "incorrecta1": "El Foco",
+        "incorrecta2": "El Contrapunto de Schneider",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de golf nacido en la primera mitad del siglo XX cuenta con un mayor número de torneos majors ganados?",
+        "respuesta": "Jack Nicklaus",
+        "incorrecta1": "Philip Alfred Mickelson",
+        "incorrecta2": "Emiliano Grillo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el sobrenombre con el que se conoce al jugador profesional de Super Smash Bros. Jason Zimmerman?",
+        "respuesta": "Mew2King (M2K)",
+        "incorrecta1": "Salem",
+        "incorrecta2": "Zero",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué arte marcial de origen sudamericano fue desarrollado para parecerse a un baile?",
+        "respuesta": "Capoeira",
+        "incorrecta1": "Salsa",
+        "incorrecta2": "Judo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de fútbol dio pie a un movimiento conocido como la ''Gravesinha''?",
+        "respuesta": "Thomas Gravesen",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué nadador de élite estadounidense ganó cuatro medallas de oro y dos de plata en los Juegos Olímpicos de Londres de 2012?",
+        "respuesta": "Michael Phelps",
+        "incorrecta1": "Zidane",
+        "incorrecta2": "Ronaldinho",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué ciudad italiana nació el piloto de motociclismo Valentino Rossi?",
+        "respuesta": "Urbino",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": " ¿Cómo se llama el videojuego de estrategia cuyos torneos tienen un seguimiento masivo en Corea del Sur desde finales de los 90?",
+        "respuesta": "StarCraft",
+        "incorrecta1": "Tetris",
+        "incorrecta2": "Fortnite",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué deportista español se proclamó Campeón de las Series Mundiales de Ultra Running en tres años consecutivos de 2012 a 2014?",
+        "respuesta": "Kilian Jornet",
+        "incorrecta1": "Luis Alberto Hernando",
+        "incorrecta2": "Joe Gray",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué arte marcial es conocido como ''el boxeo tailandés''?",
+        "respuesta": "Muay Thai",
+        "incorrecta1": "Sumo",
+        "incorrecta2": "Kendo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo de fútbol estaba jugando David Beckham en el año 2007?",
+        "respuesta": "Los Ángeles Galaxy",
+        "incorrecta1": "Manchester United",
+        "incorrecta2": "París Saint-Germain FC",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de la NBA ha ganado más campeonatos?",
+        "respuesta": "Bill Russell",
+        "incorrecta1": "Sam Jones",
+        "incorrecta2": "Tom Heinsohn",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el piloto de MotoGP nacido en España que más campeonatos ha conseguido?",
+        "respuesta": "Marc Márquez",
+        "incorrecta1": "Danilo Petrucci",
+        "incorrecta2": "Franco Morbidelli",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es el único piloto de Fórmula 1 nacido en España que ha conseguido ganar el campeonato?",
+        "respuesta": "Fernando Alonso",
+        "incorrecta1": "Graham Hill",
+        "incorrecta2": "Niki Lauda",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué franquicia de la NBA desarrolló toda su carrera profesional Kobe Bryant?",
+        "respuesta": "Los Ángeles Lakers",
+        "incorrecta1": "San Antonio Spurs",
+        "incorrecta2": "Brooklyn Nets",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el tenista que ha ganado en más ocasiones el título de Roland Garros?",
+        "respuesta": "Rafael Nadal",
+        "incorrecta1": "Roger Federer",
+        "incorrecta2": "Daniil Medvédev",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué futbolista, cuya demarcación era portero, pasó de jugar en el primer equipo del Fútbol Club Barcelona a probar suerte en el equipo de los Barcelona Dragons de fútbol americano?",
+        "respuesta": "Jesús Angoy",
+        "incorrecta1": "Keylor Navas",
+        "incorrecta2": "Gianluigi Buffon",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué conocido boxeador inició su trayectoria profesional con el nombre de Cassius Clay?",
+        "respuesta": "Cassius Clay",
+        "incorrecta1": "Sugar Ray Robinson",
+        "incorrecta2": "Julio César Chávez",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el baloncestista más alto que ha participado en la ACB?",
+        "respuesta": "Christ Koum Adje",
+        "incorrecta1": "Kenny George",
+        "incorrecta2": "Bob Wegner",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué periodista deportivo popularizó la expresión ''Jugón'' para referirse a cracks tanto del fútbol como del baloncesto?",
+        "respuesta": "Andrés Montes",
+        "incorrecta1": "Sebastián Vignolo",
+        "incorrecta2": "Fernando Niembro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué futbolista argentino era apodado ''El Conejito''?",
+        "respuesta": "Javier Saviola",
+        "incorrecta1": "Ariel Ortega",
+        "incorrecta2": "Fernando Cavenaghi",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué entrenador español logró el primer (y único) sextete al ganar los seis campeonatos posibles en una única temporada?",
+        "respuesta": "Josep Guardiola",
+        "incorrecta1": "Radamel Falcao García",
+        "incorrecta2": "Claudio Paul Caniggia",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue la primera mujer en ganar una medalla olímpica en el año 1900?",
+        "respuesta": "Charlotte Cooper.",
+        "incorrecta1": "Ibtihaj Muhammad",
+        "incorrecta2": "Serena Williams",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cómo se llaman los deportistas que practican Judo?",
+        "respuesta": "Judokas",
+        "incorrecta1": "Karateka",
+        "incorrecta2": "Nak Muay",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuáles son los colores Radamel Falcao Garcíade los cinco anillos olímpicos?",
+        "respuesta": "Amarillo, Azul, Negro, Rojo y Verde",
+        "incorrecta1": "Violeta, Negro, Azul, Celeste y Amarillo",
+        "incorrecta2": "Gris, Azul, Naranja, Turquesa y Verde",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué deporte destacó Carl Lewis?",
+        "respuesta": "Atletismo",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Futbol",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Dónde se inventó el Ping-Pong?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "España",
+        "incorrecta2": "Russia",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué atleta ostenta el récord de los 100 metros lisos?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "Florence Griffith Joyner",
+        "incorrecta2": "Tyson Gay",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de fútbol inventó un movimiento conocido como la ''Gravesinha''?",
+        "respuesta": "Thomas Gravessen",
+        "incorrecta1": "Kevin Poole",
+        "incorrecta2": "Harry Lowe",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cómo se llamaba Muhammad Ali antes de adoptar este nombre?",
+        "respuesta": "Cassius Clay",
+        "incorrecta1": "Joe Frazier",
+        "incorrecta2": "Ken Norton",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue el campeón del mundo de Moto GP en 2017?",
+        "respuesta": "Marc Márquez",
+        "incorrecta1": "Fabio Quartararo",
+        "incorrecta2": "Joan Mir",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo de béisbol jugó el famoso Derek Jeter?",
+        "respuesta": "New York Yankees",
+        "incorrecta1": "Boston Red Sox",
+        "incorrecta2": "New York Mets",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es el máximo goleador histórico de los mundiales de fútbol?",
+        "respuesta": "Miroslav Klose",
+        "incorrecta1": "Ronaldo",
+        "incorrecta2": "Gerd Müller",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el equipo de la NBA con más títulos?",
+        "respuesta": "Los Boston Celtics",
+        "incorrecta1": "Los Angeles Lakers",
+        "incorrecta2": "Chicago State Warriors",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue la primera alpinista en llegar a la cima del Everest?",
+        "respuesta": "Junko Tabei",
+        "incorrecta1": "Wanda Rutkiewicz",
+        "incorrecta2": "Edurne pasaban",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo jugaba David Beckham en el año 2007?",
+        "respuesta": "Los Angeles Galaxy",
+        "incorrecta1": "Real Madrid",
+        "incorrecta2": "LA Galaxy",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuántos jugadores hay en un equipo de voleibol?",
+        "respuesta": "Seis",
+        "incorrecta1": "Siete",
+        "incorrecta2": "Cinco",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuántos rounds hay en un combate de boxeo olímpico?",
+        "respuesta": "Tres",
+        "incorrecta1": "Seis",
+        "incorrecta2": "Doce",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué país es el que, con 5 títulos, ha ganado más mundiales?",
+        "respuesta": "Brasil",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Rusia",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cómo se llamaba el ciclista italiano apodado ''il campionissimo''?",
+        "respuesta": "Fausto Coppi",
+        "incorrecta1": "Giovanni Brunero",
+        "incorrecta2": "Jacques Anquetil",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué ciudad española está el estadio de fútbol de Mestalla?",
+        "respuesta": "Valencia",
+        "incorrecta1": "Salamanca",
+        "incorrecta2": "Córdoba",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué arte marcial se conoce como el ''boxeo tailandés''?",
+        "respuesta": "Muay Thai",
+        "incorrecta1": "Tai chi chuan",
+        "incorrecta2": "Kung fu",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de fútbol ha ganado más copas del mundo?",
+        "respuesta": "Pelé",
+        "incorrecta1": "Maradora",
+        "incorrecta2": "Ruggeri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué jugador de la NBA ha ganado más campeonatos en la historia?",
+        "respuesta": "Bill Russell",
+        "incorrecta1": "Sam Jones",
+        "incorrecta2": "Tom Heinsohn",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué belga es considerado uno de los mejores ciclistas de todos los tiempos?",
+        "respuesta": "Eddy Merckx",
+        "incorrecta1": "Bernard Hinault",
+        "incorrecta2": "Fausto Coppi",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué campeonato de tenis se presenció el partido más largo de la historia?",
+        "respuesta": "Wimbledon",
+        "incorrecta1": "Ronda Roland Garros",
+        "incorrecta2": "Copa Davis",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál ha sido el único tenista en ganar los cuatro títulos del Grand Slam en el mismo año en dos ocasiones?",
+        "respuesta": "Rod Laver",
+        "incorrecta1": "Serena Williams",
+        "incorrecta2": "Margaret Court",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue el boxeador más joven de la historia en conseguir un título mundial de los pesos pesados?",
+        "respuesta": "Mike Tyson",
+        "incorrecta1": "Muhammad Ali",
+        "incorrecta2": "Joe Louis",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo jugó Carles Puyol durante su carrera como futbolista?",
+        "respuesta": "F.C. Barcelona",
+        "incorrecta1": "Real Madrid",
+        "incorrecta2": "Arenal",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué año se jugaron los Juegos Olímpicos de México?",
+        "respuesta": "1968",
+        "incorrecta1": "1964",
+        "incorrecta2": "1972",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué significan las siglas ATP en el ámbito deportivo?",
+        "respuesta": "Asociación de Tenistas Profesionales",
+        "incorrecta1": "Asociación de Tiro con Arco Profesionales",
+        "incorrecta2": "Asociación de Triatron Profesionales",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué equipo español jugó el futbolista Cristiano Ronaldo?",
+        "respuesta": "Real Madrid",
+        "incorrecta1": "Juventus",
+        "incorrecta2": "París Saint-Germain",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué exdeportista posee el récord de más medallas olímpicas de oro?",
+        "respuesta": "Michael Phelps",
+        "incorrecta1": "Larisa Latynina",
+        "incorrecta2": "Paavo Nurmi",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿A quién se otorga el Balón de Oro?",
+        "respuesta": "Al mejor futbolista mundial del año",
+        "incorrecta1": "Al peor futbolista mundial del año",
+        "incorrecta2": "Al que metio mas goles",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es considerado el mejor jugador histórico del club Nápoles de Italia y de la selección argentina?",
+        "respuesta": "Diego Armando Maradona",
+        "incorrecta1": "Gonzalo Higuaín",
+        "incorrecta2": "Edinson Cavani",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es el máximo goleador de la historia de los mundiales de fútbol?",
+        "respuesta": "Miroslav Klose",
+        "incorrecta1": "Ronaldo",
+        "incorrecta2": "Gerd Müller",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién fue el máximo goleador de la historia de la Copa Confederaciones?",
+        "respuesta": "Ronaldinho",
+        "incorrecta1": "Silva",
+        "incorrecta2": "Naymar",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Quién es el futbolista con más goles en la liga española?",
+        "respuesta": "Leo Messi",
+        "incorrecta1": "Neymar Jr.",
+        "incorrecta2": "Cristiano Ronaldo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué país ganó el mundial de fútbol en México (1986)?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Brisil",
+        "incorrecta2": "Alemania",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En qué olimpiadas obtuvo el jugador de baloncesto LeBron James su primera medalla de oro en los juegos olímpicos?",
+        "respuesta": "Pekín",
+        "incorrecta1": "Rio",
+        "incorrecta2": "Munich",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué ciclista latinoamericano ganó por primera vez el Giro de Italia?",
+        "respuesta": "Nairo Quintana",
+        "incorrecta1": "Fabio Parra",
+        "incorrecta2": "Pacho Rodríguez",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué famoso boxeador panameño era conocido como ''Mano de Piedra''?",
+        "respuesta": "Roberto Durán Samaniego",
+        "incorrecta1": "Muhammad Ali",
+        "incorrecta2": "Manny Pacquiao",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En dónde se disputa la liga privada de baloncesto NBA?",
+        "respuesta": "Estados Unidos y Canadá",
+        "incorrecta1": "Mexico y Estados Unidos ",
+        "incorrecta2": "Argentina y Estados Unidos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Para qué equipo de las grandes ligas jugó el beisbolista panameño Mariano Rivera?",
+        "respuesta": "New York Yankees",
+        "incorrecta1": "Los Angeles Dodgers",
+        "incorrecta2": "Atlanta Braves",
+        "objectFit": "cover"
+    }
+]
+    

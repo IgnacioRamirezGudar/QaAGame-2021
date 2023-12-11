@@ -1,0 +1,204 @@
+.conter{
+    position: absolute;
+    margin: auto;
+    width: 40%;
+    height: 300px;
+    border-radius: 5px;
+    background: rgba(80, 77, 77, 0.589);
+    box-shadow: 1px 1px 100px rgb(230, 223, 223);
+    left: 30%;
+    top: 25%;
+}
+.title{
+    color: white;
+    font-size: 150%;
+}
+.boton{
+    position: absolute;
+    left: 40%;
+    width: 20%;
+    height: 30px;
+    border-radius: 30px;
+}
+.boton2{
+    display: none;
+}
+.flecha{
+    display: none;
+}
+.elegir{
+    margin: 2%;
+    width: 50%;
+    height: 30px;
+    border-radius: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+    .conter{
+        position: absolute;
+        margin: auto;
+        width: 95%;
+        height: 300px;
+        border-radius: 5px;
+        background: rgba(80, 77, 77, 0.589);
+        box-shadow: 1px 1px 100px rgb(230, 223, 223);
+        left: 2%;
+        top: 20%;
+    }
+    .title{
+        color: white;
+        font-size: 150%;
+    }
+    .boton{
+        position: absolute;
+        left: 35%;
+        width: 30%;
+        height: 30px;
+        border-radius: 30px;
+    }
+    .boton2{
+        display: block;
+        position: absolute;
+        left: -110px;
+        width: 80%;
+        height: 30px;
+        border-radius: 30px;
+        top: 80%;
+    }
+    .flecha{
+        display: block;
+        position: absolute;
+        top: -8px;
+        width: 20%;
+        height: 50px;
+        border-radius: 30px;
+    }
+    .elegir{
+        margin: 5%;
+        width: 70%;
+        height: 30px;
+        border-radius: 30px;
+    }
+}
+
+@media (min-width: 360px) and (max-width: 640px){
+    .conter{
+        position: absolute;
+        margin: auto;
+        width: 80%;
+        height: 300px;
+        border-radius: 5px;
+        background: rgba(80, 77, 77, 0.589);
+        box-shadow: 1px 1px 100px rgb(230, 223, 223);
+        left: 10%;
+        top: 25%;
+    }
+    .title{
+        color: white;
+        font-size: 150%;
+    }
+    .boton{
+        position: absolute;
+        left: 35%;
+        width: 30%;
+        height: 30px;
+        border-radius: 30px;
+    }
+    .boton2{
+        display: block;
+        position: absolute;
+        left: -110px;
+        width: 80%;
+        height: 30px;
+        border-radius: 30px;
+        top: 80%;
+    }
+    .flecha{
+        display: block;
+        position: absolute;
+        top: -8px;
+        width: 20%;
+        height: 50px;
+        border-radius: 30px;
+    }
+    .elegir{
+        margin: 5%;
+        width: 70%;
+        height: 30px;
+        border-radius: 30px;
+    }
+}
+
+@media (min-width: 720px) and (max-width: 1280px){
+    .conter{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 300px;
+        border-radius: 5px;
+        background: rgba(80, 77, 77, 0.589);
+        box-shadow: 1px 1px 100px rgb(230, 223, 223);
+        left: 5%;
+        top: 25%;
+    }
+    .title{
+        color: white;
+        font-size: 150%;
+    }
+    .boton{
+        position: absolute;
+        left: 35%;
+        width: 30%;
+        height: 30px;
+        border-radius: 30px;
+        font-size: 120%;
+    }
+    .elegir{
+        font-size: 150%;
+        margin: 5%;
+        width: 70%;
+        height: 30px;
+        border-radius: 30px;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 1600px){
+    .conter{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 300px;
+        border-radius: 5px;
+        background: rgba(80, 77, 77, 0.589);
+        box-shadow: 1px 1px 100px rgb(230, 223, 223);
+        left: 5%;
+        top: 35%;
+    }
+    .title{
+        color: white;
+        font-size: 150%;
+    }
+    .boton{
+        position: absolute;
+        left: 35%;
+        width: 30%;
+        height: 30px;
+        border-radius: 30px;
+        font-size: 120%;
+    }
+    .boton2{
+        position: absolute;
+        left: 11%;
+        width: 80%;
+        height: 30px;
+        border-radius: 30px;
+        top: 80%;
+    }
+    .elegir{
+        font-size: 120%;
+        margin: 5%;
+        width: 70%;
+        height: 30px;
+        border-radius: 30px;
+    }
+}

@@ -1,0 +1,803 @@
+[ 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Quién es el inventor del telescopio reflector? ",
+        "respuesta": "ISAAC NEWTON",
+        "incorrecta1": "Alessandro Volta",
+        "incorrecta2": "Albert Einstein",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Con qué nombre se conoce el miedo a las alturas?",
+        "respuesta": "ACROFOBIA",
+        "incorrecta1": "Aviatophobia",
+        "incorrecta2": "Agorafobia",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Los satélites Calisto, Europa, Ío y Ganímedes orbitan alrededor de un planeta. ¿Cuál es?",
+        "respuesta": "JÙPITER",
+        "incorrecta1": "Saturno",
+        "incorrecta2": "Marte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "La era paleozoica tuvo un periodo comprendido entre el Devónico y el Pérmico. ¿Cuál fue?",
+        "respuesta": "CARBONÍFERO",
+        "incorrecta1": "Ordovícico",
+        "incorrecta2": "Silúrico",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama el investigador que desarrolló una teoría similar a la del darwinismo?",
+        "respuesta": "ALFRED RUSSELL WALLACE",
+        "incorrecta1": "Edward Tyson",
+        "incorrecta2": "Antoni van Leeuwenhoek",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se arregla una carie?",
+        "respuesta": "CON UN EMPASTE",
+        "incorrecta1": "Con una extracción",
+        "incorrecta2": "Con medicamento",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Todos los componentes orgánicos comparten un mismo elemento. ¿Cuál?",
+        "respuesta": "CARBONO",
+        "incorrecta1": "Oxígeno",
+        "incorrecta2": "Hidrógeno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Laika es el nombre de una perra muy famosa. ¿A qué se debe su popularidad?",
+        "respuesta": "PRIMER PERRO QUE ESTUVO EN EL ESPACIO",
+        "incorrecta1": "Primer perro que fue muda",
+        "incorrecta2": "Segundo perro que estuvo en el espacio",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es la planta principal con la que se hace el tequila?",
+        "respuesta": " EL AGAVE",
+        "incorrecta1": " Sansevieria",
+        "incorrecta2": "Sábila",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Alnilam, Alnitak y Mintaka son las estrellas que dibujan una línea vista desde la Tierra. ¿Cómo se llama esta línea?",
+        "respuesta": "EL CINTURON DE ORION",
+        "incorrecta1": "Los tres reyes magos",
+        "incorrecta2": "Las tres Marías",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Con qué nombre se denominan las células nerviosas?",
+        "respuesta": "NEURONAS",
+        "incorrecta1": "Plasma",
+        "incorrecta2": "Glóbulos rojos",
+        "objectFit": "cover"
+    },
+    {
+        "categoría": "ciencia",
+        "pregunta": "¿Cuál es el elemento químico más denso?",
+        "respuesta": "OSMIO",
+        "incorrecta1": "wolframio",
+        "incorrecta2": "Iridio",
+        "objectFit": "cover"
+    }, 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué animal utilizo el Premio Nobel de medicina Iván Pávlov en sus experimentos?",
+        "respuesta": "PERROS",
+        "incorrecta1": "Roedores",
+        "incorrecta2": "gatos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "La claustrofobia es el nombre técnico del miedo que tienen ciertas personas... ¿a qué?",
+        "respuesta": "A ESTAR EN ESPACIOS CERRADOS",
+        "incorrecta1": "A estar en espacios abiertos",
+        "incorrecta2": "A estar en espacios pequeños",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Las células reproductoras de dividen por",
+        "respuesta": "MEIOSIS",
+        "incorrecta1": "mitosis",
+        "incorrecta2": "Metamorfosis",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos pares de cromosomas tiene una persona?",
+        "respuesta": "23",
+        "incorrecta1": "20",
+        "incorrecta2": "22",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "La velocidad a la que viaja la luz es",
+        "respuesta": " 300.000 M/S",
+        "incorrecta1": "300.000 m/h",
+        "incorrecta2": "300.000 km/s",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "La diabetes es una enfermedad de tipo...",
+        "respuesta": "ENDOCRINA",
+        "incorrecta1": "Nerviosa",
+        "incorrecta2": "Circulatoria",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "Existe un mes en el que puede haber menos de 4 fases lunares. ¿Cuál es?",
+        "respuesta": "FEBRERO",
+        "incorrecta1": "Marzo",
+        "incorrecta2": "Abril",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿En qué lado del organismo se encuentra el hígado?",
+        "respuesta": "DERECHO",
+        "incorrecta1": "Centro ",
+        "incorrecta2": "Izquierdo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama el ave más grande y vivo en la actualidad?",
+        "respuesta": "ALBATROS",
+        "incorrecta1": "Aguila",
+        "incorrecta2": "Alcon",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿que mamifero no puede mirar hacia arriba?",
+        "respuesta": "CERDO",
+        "incorrecta1": "Jirafa",
+        "incorrecta2": "rinoceronte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama el científico que acuño por primera vez el termino celular?",
+        "respuesta": "ROBERT HOOKE",
+        "incorrecta1": "Johannes Keple",
+        "incorrecta2": "Michael Faraday",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el símbolo que representa al elemento químico denominado Calcio?",
+        "respuesta": "CA",
+        "incorrecta1": "cal",
+        "incorrecta2": "c",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuáles son las células más importantes y numerosas del cerebro?",
+        "respuesta": "NERVIOSAS",
+        "incorrecta1": "Fibroblastos",
+        "incorrecta2": " Adipocitos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué cree tener el hipocondríaco, aunque no lo tiene?",
+        "respuesta": "ENFERMEDADES",
+        "incorrecta1": "Perseguidores",
+        "incorrecta2": "Alas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿A qué temen los que sufren de anemofobia?",
+        "respuesta": "AL VIENTO",
+        "incorrecta1": "A la anemia",
+        "incorrecta2": "A ciertas flores",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿De qué continente es originario el jacarandá?",
+        "respuesta": "AMÉRICA",
+        "incorrecta1": "Europa",
+        "incorrecta2": "Oceanía",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos bits hay en un byte?",
+        "respuesta": "OCHO",
+        "incorrecta1": "Doce",
+        "incorrecta2": "Sesenta",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuáles son las dos partes del cuerpo a ectadas por una gastroenteritis?",
+        "respuesta": "ESTÓMAGO E INTESTINO",
+        "incorrecta1": "Estómago y riñón",
+        "incorrecta2": "Estómago y páncreas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué flor se usa para hacer un condimento y también para una tintura?",
+        "respuesta": "AZAFRÁN",
+        "incorrecta1": "Amapola",
+        "incorrecta2": "Canela",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos ojos tiene un Calamar?",
+        "respuesta": "DOS",
+        "incorrecta1": "Cuatro",
+        "incorrecta2": "Ocho",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Dónde están los huesos más chicos del cuerpo?",
+        "respuesta": "EN EL OÍDO",
+        "incorrecta1": "En la nariz",
+        "incorrecta2": "En las manos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el elemento que se encuentra en todas las partículas orgánicas?",
+        "respuesta": "EL CARBONO",
+        "incorrecta1": "El oxígeno",
+        "incorrecta2": "El nitrógeno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué síntoma se combate  un antipirético? ",
+        "respuesta": "FIEBRE",
+        "incorrecta1": "Mareo",
+        "incorrecta2": "Eczema",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿De qué elemento se compone mayormente el Sol?",
+        "respuesta": " HIDRÓGENO",
+        "incorrecta1": "Helio",
+        "incorrecta2": "Nitrógeno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama a cada pequeño cuadrado que compone una imagen digital?",
+        "respuesta": "PÍXEL",
+        "incorrecta1": "Byte",
+        "incorrecta2": "String",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el gas con el que se cargan los encendedores?",
+        "respuesta": "BUTANO",
+        "incorrecta1": "Etano",
+        "incorrecta2": "Propano",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿De qué continente es originaria la palta?",
+        "respuesta": "AMÉRICA",
+        "incorrecta1": " Asia",
+        "incorrecta2": "Europa",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál fue la primera bebida que pasteurizó Pasteur en 1864?",
+        "respuesta": "VINO",
+        "incorrecta1": "Leche",
+        "incorrecta2": "Agua",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Por qué nombre son mejor conocidos los Rayos Roentgen?",
+        "respuesta": "RAYOS EQUIS",
+        "incorrecta1": "Rayos gamma",
+        "incorrecta2": "Rayos alía",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué se obtiene evaporando  el agua y volviéndola a condensar?",
+        "respuesta": "AGUA DESTILADA",
+        "incorrecta1": "Agua oxigenada",
+        "incorrecta2": "Agua mineralizada",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿En qué parte del cuerpo humano está el estribo?",
+        "respuesta": "EN EL OÍDO",
+        "incorrecta1": "En la faringe",
+        "incorrecta2": "En el riñón",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos meses tiene el calendario lunar?",
+        "respuesta": "TRECE",
+        "incorrecta1": "Doce",
+        "incorrecta2": "Once",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos dedos tiene en cada pata trasera el elefante africano?",
+        "respuesta": "TRES",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Cuatro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué ave de coral hace frente a los caminantes?",
+        "respuesta": "El GANSO",
+        "incorrecta1": "El faisán",
+        "incorrecta2": "La gallina",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Por medio de qué cura la crioterapia?",
+        "respuesta": "EL FRÍO",
+        "incorrecta1": "El calor",
+        "incorrecta2": "La electricidad",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Quién inventó la medición por voltios?",
+        "respuesta": "VOLTA",
+        "incorrecta1": "Voltaire",
+        "incorrecta2": "Marconi",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama la enfermedad que transmiten los loros?",
+        "respuesta": "PSITACOSIS",
+        "incorrecta1": "Psicosis",
+        "incorrecta2": "Metempsicosis",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos ceros tiene un billón?",
+        "respuesta": "DOCE",
+        "incorrecta1": "Quince",
+        "incorrecta2": "Nueve",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántas patas tiene una pulga?",
+        "respuesta": "SEIS",
+        "incorrecta1": "cinco",
+        "incorrecta2": "Ocho",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el país en qué hay más gatos?",
+        "respuesta": "ESTADO UNIDOS",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "China",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué metales componen el bronce?",
+        "respuesta": "COBRE Y ESTAÑO",
+        "incorrecta1": "Cobre y plomo",
+        "incorrecta2": "Plomo y estaño",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué metal conduce mejor la electricidad?",
+        "respuesta": "LA PLATA",
+        "incorrecta1": "El oro",
+        "incorrecta2": "El cobre",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿A qué planeta se lo llama “el planeta de los anillos”?",
+        "respuesta": "SATURNO",
+        "incorrecta1": "Marte",
+        "incorrecta2": "Venus",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos huesos tienen los cinco dedos de una mano?",
+        "respuesta": "CATORCE",
+        "incorrecta1": "quince",
+        "incorrecta2": "diez",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué estudia la micología?",
+        "respuesta": "HONGOS",
+        "incorrecta1": "Ciertos monos",
+        "incorrecta2": "Rocas de mica",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿De qué color es la flor de la retama negra?",
+        "respuesta": "AMARILLA",
+        "incorrecta1": "Negra",
+        "incorrecta2": "Roja",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Quién registró más patentes en toda la historia de EEUU?",
+        "respuesta": "EDISON",
+        "incorrecta1": "Franklin",
+        "incorrecta2": "Addams",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuantas hélices como mínimo tiene un helicóptero?",
+        "respuesta": "DOS",
+        "incorrecta1": "Una",
+        "incorrecta2": "Tres",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos cuernos tiene el rinoceronte negro?",
+        "respuesta": "DOS",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Tres",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos litros de aire ben normalmente en los pulmones?",
+        "respuesta": "CINCO",
+        "incorrecta1": "tres",
+        "incorrecta2": "Dos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el elemento explosivo de la dinamita?",
+        "respuesta": "LA NITROGLICERINA",
+        "incorrecta1": "La pólvora",
+        "incorrecta2": "El trinitrotolueno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué árbol se obtiene al plantar una bellota?",
+        "respuesta": "UN ROBLE",
+        "incorrecta1": "Un arce",
+        "incorrecta2": "Un pino",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el planeta más cercano al sol?",
+        "respuesta": "MERCURIO",
+        "incorrecta1": "Marte",
+        "incorrecta2": "Venus",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el animal que tiene el corazón más potente?",
+        "respuesta": "LA JIRAFA",
+        "incorrecta1": "ballena",
+        "incorrecta2": "El rinoceronte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano?",
+        "respuesta": "206",
+        "incorrecta1": "210",
+        "incorrecta2": "200",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué estudia un espeleólogo?",
+        "respuesta": "LAS CAVERNAS",
+        "incorrecta1": "Los espejos",
+        "incorrecta2": "La respiración",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué fase lunar viene después del cuarto creciente?",
+        "respuesta": "LUNA LLENA",
+        "incorrecta1": "Luna nueva",
+        "incorrecta2": "Cuarto menguante",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Durante qué fase lunar se producen los eclipses de sol?",
+        "respuesta": "LUNA NUEVA",
+        "incorrecta1": "Luna llena",
+        "incorrecta2": "Cuarto creciente",
+        "objectFit": "cover"
+    },
+    {
+        "categoría": "ciencia",
+        "pregunta": "¿Para qué triángulos usamos el Teorema Pitágoras?",
+        "respuesta": "PARA LOS TRIÁNGULOS RECTÁNGULOS",
+        "incorrecta1": "Para los triángulos isósceles",
+        "incorrecta2": "Para todos los triángulos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué se extrae de una planta oleaginosa?",
+        "respuesta": "ACEITE",
+        "incorrecta1": "Ginebra",
+        "incorrecta2": "Azúcar",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cómo se llama a las mitades en las que se divide la Tierra?",
+        "respuesta": "HEMISFERIOS",
+        "incorrecta1": "Archipiélagos",
+        "incorrecta2": "Hemistiquios",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Por dónde respiran las arañas?",
+        "respuesta": "POR LA PANZA",
+        "incorrecta1": "Por las patas",
+        "incorrecta2": "Por la boca",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Con que nombre es más conocido el metil- metacrilato de metilo?",
+        "respuesta": "ACRÍLICO",
+        "incorrecta1": "Poliuretano",
+        "incorrecta2": "Azul de metileno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": " ¿Cómo se llama la torcedura de una articulación en el cuerpo?",
+        "respuesta": "ESGUINCE",
+        "incorrecta1": "Desgarro",
+        "incorrecta2": "Contusión",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos átomos de oxígeno hay en una molécula de agua?",
+        "respuesta": "UNO",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Cuatro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántas veces se multiplica un número por sí mismo cuando se lo eleva al cuadrado?",
+        "respuesta": "UNA",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Cuatro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿A la inflamación de qué órgano se denomina “estomatitis”?",
+        "respuesta": "DE LA BOCA",
+        "incorrecta1": "Del esófago",
+        "incorrecta2": "Deh estómago",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuánto tarda la Luna en dar una vuelta alrededor de la tierra?",
+        "respuesta": "VEINTIOCHO DÍAS",
+        "incorrecta1": "Diez días",
+        "incorrecta2": "Un día",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántos gramos hay en un Kilo ?",
+        "respuesta": "MIL",
+        "incorrecta1": "Cien",
+        "incorrecta2": "Diez",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el desierto más árido del  planeta?",
+        "respuesta": "EL DESIERTO DE ATACAMA",
+        "incorrecta1": "El Desierto de Sahara",
+        "incorrecta2": "El Desierto deGobi",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué segregan las suprarrenales cuando se tiene miedo?",
+        "respuesta": "ADRENALINA",
+        "incorrecta1": "Oxitocina",
+        "incorrecta2": "Bilirrubina",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué hacen las abejas para comunicarse entre ellas?",
+        "respuesta": "DANZAN",
+        "incorrecta1": "Mueven el aguijón",
+        "incorrecta2": "Despiden olores",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuántas noches seguidas puede alumbrar un bichito de luz?",
+        "respuesta": "CUATRO",
+        "incorrecta1": "Tres",
+        "incorrecta2": "Dos",
+        "objectFit": "cover"
+    }, 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuándo es el animal más chico del mismo orden que la ballena?",
+        "respuesta": "EL DELFÍN",
+        "incorrecta1": "La foca",
+        "incorrecta2": "El atún",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué ondas se usan para hacer una ecografía?",
+        "respuesta": "SONORAS",
+        "incorrecta1": "Microondas",
+        "incorrecta2": "Electromagnéticas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿En qué órgano se desarrolla el glaucoma?",
+        "respuesta": "EL OJO",
+        "incorrecta1": "El oído",
+        "incorrecta2": "El hígado",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿En qué parte del cuerpo humano está situada la trompa de Eustaquio?",
+        "respuesta": "EN EL OIDO",
+        "incorrecta1": "En el riñón",
+        "incorrecta2": "En el esófago",
+        "objectFit": "cover"
+    }, 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Dónde está el tendón de Aquiles?",
+        "respuesta": "EN EL PIE",
+        "incorrecta1": "En el brazo",
+        "incorrecta2": "En el hombro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Quién descubrió las ondas de radio en 18887?",
+        "respuesta": "HERTZ",
+        "incorrecta1": "Watt",
+        "incorrecta2": "Bell",
+        "objectFit": "cover"
+    }, 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿En qué continente vive en libertad el oso panda?",
+        "respuesta": "ASIA",
+        "incorrecta1": "África",
+        "incorrecta2": "América",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué se hiela primero de una laguna?",
+        "respuesta": "LA SUPERFICIE",
+        "incorrecta1": "El Fondo",
+        "incorrecta2": "El Medio",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿De qué color es la raíz de una planta de zanahoria?",
+        "respuesta": "ANARANJADA",
+        "incorrecta1": "verde",
+        "incorrecta2": "amarilla",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+        "respuesta": "EL NITRÓGENO",
+        "incorrecta1": "El dióxido de carbono?",
+        "incorrecta2": "El oxígeno",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué flor se usa para hacer un condimento y también para una tintura?",
+        "respuesta": "AZAFRÁN",
+        "incorrecta1": "Amapola",
+        "incorrecta2": "Canela",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Con qué construyen sus nidos los pingüinos?",
+        "respuesta": "CON PIEDRAS",
+        "incorrecta1": "Con trozos de  hielo",
+        "incorrecta2": "Con ramas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué animal tiene tres hileras de dientes en cada mandíbula?",
+        "respuesta": "EL TIBURÓN",
+        "incorrecta1": "El murciélago",
+        "incorrecta2": "El ornitorrinco",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Con qué parte del cuerpo “canta” el grillo?",
+        "respuesta": " CON LAS PATAS Y LAS ALAS",
+        "incorrecta1": "Con las antenas",
+        "incorrecta2": "Con la boca",
+        "objectFit": "cover"
+    }, 
+    {
+        "categoria": "ciencia",
+        "pregunta": "¿Qué tienen las moscas en las patas que les permite andar por el techo?",
+        "respuesta": "VENTOSA",
+        "incorrecta1": "Una secreción Pegajosa",
+        "incorrecta2": "Ganchos",
+        "objectFit": "cover"
+     
+    }
+]    

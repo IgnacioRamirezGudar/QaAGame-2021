@@ -1,0 +1,810 @@
+[
+{
+"categoria": "videojuegos",
+"pregunta": "¿Con qué nombre se conoció a Mario Bros por primera vez?",
+"respuesta": "JUMPMAN",
+"incorrecta1": "Plumber Man",
+"incorrecta2": "Mario",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es considerado el primer videojuego de la historia según la mayoría?",
+"respuesta": "TENNIS FOR TWO",
+"incorrecta1": "Pong",
+"incorrecta2": "Asteroids",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Quiénes crearon el famosísimo videojuego Tetris?",
+"respuesta": "LOS SOVIÉTICOS",
+"incorrecta1": "Japoneses",
+"incorrecta2": "Americanos ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es la primera videoconsola doméstica de la historia?",
+"respuesta": "MAGNAVOX ODYSSEY",
+"incorrecta1": "Atari 2600",
+"incorrecta2": "Colecovision",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es considerado el personaje más famoso de la historia de los videojuegos?",
+"respuesta": "MARIO BROS",
+"incorrecta1": "Megaman",
+"incorrecta2": "Pac-Man",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue la última consola de SEGA?",
+"respuesta": "DREAMCAST",
+"incorrecta1": "Sega Saturn",
+"incorrecta2": "Sega Master System",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿A qué se le denomina 'lag' en un videojuego?",
+"respuesta": "CONEXIÓN BAJA/INESTABLE DE INTERNET",
+"incorrecta1": "Baja carga gráfica de un videojuego",
+"incorrecta2": "Bajadas abruptas de FPS",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es la consola más vendida de la historia?",
+"respuesta": "PLAYSTATION 2",
+"incorrecta1": "Playstation 1",
+"incorrecta2": "Nintendo DS",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es el juego que más se espera y que se dice que nunca saldrá?",
+"respuesta": "HALF LIFE",
+"incorrecta1": "Duke Nukem Forever",
+"incorrecta2": "Death Stranding",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es considerado por la mayoría como el peor juego jamás creado?",
+"respuesta": "ET: EL EXTRATERRESTRE",
+"incorrecta1": "Link: The faces of evil",
+"incorrecta2": "Superman 64",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántos gamers hay actualmente en el mundo?",
+"respuesta": "+1.000 MILLONES",
+"incorrecta1": "+800 millones ",
+"incorrecta2": "+500 millones",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es considerado como una de las figuras clave y más importantes de la historia de los videojuegos?",
+"respuesta": "GUNPEI YOKOI",
+"incorrecta1": "Suda51",
+"incorrecta2": "Hideo Krojima",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué plataforma tiene más jugadores?",
+"respuesta": "PC",
+"incorrecta1": "Playstation",
+"incorrecta2": "Xbox",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue el primer juego?",
+"respuesta": "PONG",
+"incorrecta1": "Tetris",
+"incorrecta2": "Pac-man",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llama el hermano de Mario Bros?",
+"respuesta": "LUIGI",
+"incorrecta1": "Mario Jr.",
+"incorrecta2": "Luis",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántos luchadores hay en Street Fighter II?",
+"respuesta": "12",
+"incorrecta1": "8",
+"incorrecta2": "22",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántas entradas para mandos tiene Nintendo 64?",
+"respuesta": "4",
+"incorrecta1": "3",
+"incorrecta2": "2",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es un videojuego de autos de carrera?",
+"respuesta": "TOP GEAR",
+"incorrecta1": "Frogger",
+"incorrecta2": "R-Type",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llama el enemigo de Sonic?",
+"respuesta": "DR. ROBOTNIK ",
+"incorrecta1": "Dr. Malo",
+"incorrecta2": "Robotech",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue la primera consola de Playstation?",
+"respuesta": "PS1",
+"incorrecta1": "PS Project",
+"incorrecta2": "Plat One",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es el material de la primera espada que recibes en The Legend of Zelda?",
+"respuesta": "MADERA",
+"incorrecta1": "Hierro",
+"incorrecta2": "Hueso",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál de estas consolas pertenece a la compañía Sony?",
+"respuesta": "PS4",
+"incorrecta1": "Xbox One",
+"incorrecta2": "Nintendo Switch",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llama la ciudad en la que se desenvuelve Resident Evil?",
+"respuesta": "RACCOON CITY",
+"incorrecta1": "New York",
+"incorrecta2": "Metropolis",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuáles son los dos luchadores que siempre han aparecido en todas las versiones de Street Fighter?",
+"respuesta": "KEN Y RYU",
+"incorrecta1": "Ryu y M. Bison",
+"incorrecta2": "Ken y Blanca",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuánto tiempo se tenía para terminar Principe de Persia?",
+"respuesta": "60 MINUTOS",
+"incorrecta1": "120 minutos",
+"incorrecta2": "90 minutos",
+"objectfit": "cover"
+},
+{
+    "categoria": "videojuegos",
+    "pregunta": "¿Qué instrumento de viento suele usar Link de The Legend of Zelda?",
+    "respuesta": "OCARINA",
+    "incorrecta1": "Armónica",
+    "incorrecta2": "Flauta",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿De qué personaje busca venganza Kratos en Gold of war?",
+    "respuesta": "ARES",
+    "incorrecta1": "Atenea",
+    "incorrecta2": "Poseidon",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cómo se llama la institución mental que sirve de escenario a Outlast?",
+    "respuesta": "MOUNT MASSIVE",
+    "incorrecta1": "Hospital Severalls",
+    "incorrecta2": "Hospital Whittingham",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cómo se llama el protagonista de Halo?",
+    "respuesta": "JEFE MAESTRO",
+    "incorrecta1": "Soldado Maestro",
+    "incorrecta2": "John",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿En qué año fue lanzado Super Mario 64?",
+    "respuesta": "1996",
+    "incorrecta1": "1998",
+    "incorrecta2": "1997",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cómo se llama el fundador de la compañía Nintendo?",
+    "respuesta": "FUSAJIRO YAMAUCHI",
+    "incorrecta1": "Satoru Iwata",
+    "incorrecta2": "Shigeru Miyamoto",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿En cuál de estas compañías trabajó Steve Jobs cuando era joven?",
+    "respuesta": "ATARI",
+    "incorrecta1": "Pixar",
+    "incorrecta2": "Sega",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Dónde están los huesos más chicos del cuerpo?",
+    "respuesta": "EN EL OÍDO",
+    "incorrecta1": "En la nariz",
+    "incorrecta2": "En las manos",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cómo se llama el mando de Wii?",
+    "respuesta": "WIIMOTE",
+    "incorrecta1": "WiiControl",
+    "incorrecta2": "MandoWii",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cuál de estas empresas no es un estudio de videojuegos?",
+    "respuesta": "RYOGAMES",
+    "incorrecta1": "Valve",
+    "incorrecta2": "Mixi",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cuál fue el primer oficio de Mario Bros?",
+    "respuesta": "CARPINTERO",
+    "incorrecta1": "Fontanero",
+    "incorrecta2": "Electricista",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿En qué nivel de Pac-Man los fantasmas ya no pueden volverse azules?",
+    "respuesta": "18",
+    "incorrecta1": "60",
+    "incorrecta2": "42",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "'No hay opciones. Nada salvo una línea recta.' ¿Adivinarás en qué juego se dice esta categórica frase?",
+    "respuesta": "MAX PAYNE",
+    "incorrecta1": "Assassin's Creed",
+    "incorrecta2": "Super Mario World",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Con cuál de estos juegos no aprenderías nada de historia?",
+    "respuesta": "SOUL BLADE",
+    "incorrecta1": "Age of Empires",
+    "incorrecta2": "Commandos",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cuál fue la primera consola de Nintendo?",
+    "respuesta": "NES",
+    "incorrecta1": "Color TV-Game",
+    "incorrecta2": "snes",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cuál fue la primera consola de Nintendo?",
+    "respuesta": "NES",
+    "incorrecta1": "Color TV-Game",
+    "incorrecta2": "snes",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Quién es el padre de Resident Evil?",
+    "respuesta": "JOHN ROMERO",
+    "incorrecta1": "Shinji Mikami",
+    "incorrecta2": "Johannes Roberts",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿A qué generación de consolas pertenece la primera Playstation?",
+    "respuesta": "A LA CUARTA",
+    "incorrecta1": "A la quinta",
+    "incorrecta2": "A la tercera",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cual es la consola más vendida de todos los tiempos?",
+    "respuesta": "NINTENDO WII",
+    "incorrecta1": "Playstation 2",
+    "incorrecta2": "Xbox 360",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Por qué Xbox es verde?",
+    "respuesta": "FUE UNA ORDEN",
+    "incorrecta1": "Era el único color que tenían",
+    "incorrecta2": "Por marketing",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Cuál fue la primera consola diseñada para jugar online?",
+    "respuesta": "PLAYSTATION 2",
+    "incorrecta1": "Xbox 360",
+    "incorrecta2": "Dreamcast",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Sabes cuál fue el primer videojuego de estrategia en tiempo real?",
+    "respuesta": "AGE OF EMPIRES",
+    "incorrecta1": "The Ancient Art of War",
+    "incorrecta2": "The Building of a Dinasty",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "Además de Mario Bros ¿Cuál de estos personajes tiene la voz de Charles Martinet?",
+    "respuesta": "GANDALF EN EL SEÑOR DE LOS ANILLOS",
+    "incorrecta1": "El Dragon Paarthurnax en Skyrim",
+    "incorrecta2": "Luigi",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "id Software es historia del videojuego, ¿Cuál de estos títulos lanzó antes?",
+    "respuesta": "DOOM",
+    "incorrecta1": "Wolfenstein 3D",
+    "incorrecta2": "scroll lateral",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Quién creó Pac-Man?",
+    "respuesta": "NAMCO",
+    "incorrecta1": "sega",
+    "incorrecta2": "nintendo",
+    "objectfit": "cover"
+    },
+    {
+    "categoria": "videojuegos",
+    "pregunta": "¿Quién es Jumpman?",
+    "respuesta": "MARIO BROS",
+    "incorrecta1": "Sonic",
+    "incorrecta2": "Luigi",
+    "objectfit": "cover"
+    },
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es el verdadero nombre de la chica en peligro de Donkey Kong (el clásico)?",
+"respuesta": "LADY",
+"incorrecta1": "Pauline",
+"incorrecta2": "Daisy",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿En qué lugar se desarrollan las aventuras de Crash Bandicoot?",
+"respuesta": "WUMPA ISLANDS",
+"incorrecta1": "South Islands",
+"incorrecta2": "Nublar Islands",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue el jugador que consiguió una máxima puntuación de Pacman con 3.333.360 puntos en 1999?",
+"respuesta": "Billy Mitchell",
+"incorrecta1": "Walter Day",
+"incorrecta2": "Daigo Umehara",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué actriz interpretó la voz de Ellie en el videojuego Last Of Us?",
+"respuesta": "Ashley Johnson",
+"incorrecta1": "Ellen page",
+"incorrecta2": "Viva Seifert ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "De los siguientes videojuegos, ¿Cuál NO tuvo participación de Hideo Kojima?",
+"respuesta": "Castlevania: Harmony Of Dispair",
+"incorrecta1": "Zone Of Enders",
+"incorrecta2": "Penguin Adventure ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es el nombre de la inteligencia artificial que ayuda al Master Chief en Halo?",
+"respuesta": "Cortana",
+"incorrecta1": "Arbiter",
+"incorrecta2": "Hal",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿A cuál famoso videojuego de peleas pertenece el personaje de Fei Long?",
+"respuesta": "Street Fighter II",
+"incorrecta1": "Mortal Kombat",
+"incorrecta2": "King Of Fighter",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es el nombre de la hermana de Chris Redfield en Resident Evil?",
+"respuesta": "Claire ",
+"incorrecta1": "Cheryl",
+"incorrecta2": "Regina",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "De las siguientes bandas, ¿cuál no aparece en el videojuego Guitar Hero: Warriors Of Rock?",
+"respuesta": "Kasabian",
+"incorrecta1": "Rush",
+"incorrecta2": "Stone Temple Pilots",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo llamas a alguien que disfruta de los videojuegos?",
+"respuesta": "Gamer",
+"incorrecta1": "Amante de los videojuegos",
+"incorrecta2": "Videojugador",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿En qué juego vimos a Shadow the Hedgehog por primera vez?",
+"respuesta": "SONIC ADVENTURE 2",
+"incorrecta1": "Sonic cd ",
+"incorrecta2": "Sonic adventure",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "Los logros se pueden desbloquear en...",
+"respuesta": "XBOX 360 Y XBOX ONE",
+"incorrecta1": "ps3 y ps4 ",
+"incorrecta2": "wii y wii U",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué actor ponía cara a Bond en Goldeneye de Nintendo 64?",
+"respuesta": "PIERCE BROSNAN ",
+"incorrecta1": "Antonio Ozores",
+"incorrecta2": "Daniel Craig ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál era el soporte principal para los juegos de la primera Xbox?",
+"respuesta": "DVD ",
+"incorrecta1": "Blu-Ray",
+"incorrecta2": "CD",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Quién acompaña a Chloe en Uncharted: El legado perdido?",
+"respuesta": "NADINE",
+"incorrecta1": "Elena",
+"incorrecta2": "Drake",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál era el pokemon legendario principal en Pokémon Plata?",
+"respuesta": "LUGIA",
+"incorrecta1": "Currupipi",
+"incorrecta2": "Ho-oh",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "En Pro Evolution Soccer 3 ¿cómo se llamaba al valencia cf?",
+"respuesta": "NARANJA",
+"incorrecta1": "Caloret ",
+"incorrecta2": "Benidorn",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué personaje de la saga Final Fight no estaba en Final Fight 1 de Super Nintendo?",
+"respuesta": "GUY",
+"incorrecta1": "Cody",
+"incorrecta2": "Haggar",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "En wii Sports ¿Qué deportes había?",
+"respuesta": "TENIS, BÉISBOL, GOLF, BOLOS Y BOXEO",
+"incorrecta1": "Tenis, frisbee, béisbol, bolos y boxeo",
+"incorrecta2": "Tenis, golf, boxeo, bolos y esgrima",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué pasaba al pulsar el botón A en Streets of Rage II?",
+"respuesta": "LANZÁBAMOS UN ATAQUE ESPECIAL QUE PODÍA CONSUMIR SALUD",
+"incorrecta1": "Lanzábamos un ataque espacial ",
+"incorrecta2": "Un coche de policía lanzaba un disparo de ayuda",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿PlayStation 3 era retrocompatible?",
+"respuesta": "SÍ, todos los modelos eran con ps1 y algunos con ps2",
+"incorrecta1": "No",
+"incorrecta2": "Sí, pero sólo con ps1",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llamaba la ciudad principal de Jak II:El renegado de PS2?",
+"respuesta": "VILLA REFUGIÓ ",
+"incorrecta1": "Ciudad Edén",
+"incorrecta2": "Aldea de Piedra",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llamaba la ciudad principal de Jak II:El renegado de PS2?",
+"respuesta": "GAME BOY LIGHT ",
+"incorrecta1": "Game backstreet boy",
+"incorrecta2": "Game boy Micro ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué consola fue la única en tener un juego de la película Dragn Ball Evolution?",
+"respuesta": "PSP",
+"incorrecta1": "Nintendo DS",
+"incorrecta2": "PS3",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿En qué año se lanzó el icónico Sinclair ZX Spectrum?",
+"respuesta": "1982",
+"incorrecta1": "1979",
+"incorrecta2": "1985",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué apodo tenía Sonia Herranz en los primeros números de Hobby Consolas?",
+"respuesta": "TENIENTE RIPLEY",
+"incorrecta1": "Cruella de Vil",
+"incorrecta2": "Princess leia",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue el primer Mega Man que permitió cargar los disparos (Mega Buster)?",
+"respuesta": "Mega Man 4",
+"incorrecta1": "Siempre se pudo",
+"incorrecta2": "Mega Man X",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántos juegos basados en la franquicia Worms de Team17 existen?",
+"respuesta": "31",
+"incorrecta1": "8",
+"incorrecta2": "25",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llama el protagonista de Adventure Island?",
+"respuesta": "Higgins",
+"incorrecta1": "Wonder Boy",
+"incorrecta2": "Roberto",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál de estos personajes estaba oculto en el Mortal Kombat original?",
+"respuesta": "Reptile",
+"incorrecta1": "Rain",
+"incorrecta2": "Ermac ",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llaman los 3 Battletoads?",
+"respuesta": "Rash, Pimple, Zitz",
+"incorrecta1": "Ember, Galgon, Paltry",
+"incorrecta2": "Zyx, Lolo, Wynga",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cómo se llama el luchador ruso de Punch-Out!!?",
+"respuesta": "Soda Popinski",
+"incorrecta1": "John Vodka ",
+"incorrecta2": "Ivan Drago",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue el primer videojuego en presentar el idioma Simlish?",
+"respuesta": "SimCopter ",
+"incorrecta1": "SimCity 3000",
+"incorrecta2": "The Sims",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue la primera consola con CD's?",
+"respuesta": "3DO",
+"incorrecta1": "CD Boy",
+"incorrecta2": "PlayStation",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Quiénes aparecían en la portada de FIFA 2004?",
+"respuesta": "Henry, Ronaldinho, Del Piero",
+"incorrecta1": "Totti, Ronaldinho, Messi ",
+"incorrecta2": "Inzaghi, Shevchenko, Del Piero",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué personaje planeaba usar Nintendo en 1981 antes de transformar su juego en Donkey Kong?",
+"respuesta": "Popeye",
+"incorrecta1": "Super Mario",
+"incorrecta2": "Pedro Picapiedra",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántos títulos de FIFA (sin contar Copa Mundo ni ‘Street’) hay?",
+"respuesta": "23",
+"incorrecta1": "21",
+"incorrecta2": "16",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál es la versión más famosa de ‘Final Fantasy’?",
+"respuesta": "Final Fantasy VII",
+"incorrecta1": "Final Fantasy VIII",
+"incorrecta2": "Final Fantasy IV",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál de estas marcas tuvo un juego propio en Need for Speed?",
+"respuesta": "Porsche",
+"incorrecta1": "BWM",
+"incorrecta2": "Ferrari",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue el primer videojuego de Facebook?",
+"respuesta": "Friend Game",
+"incorrecta1": "Farmville",
+"incorrecta2": "Candy Crush",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuántos Pokémon tenían las versiones azul, roja y amarilla?",
+"respuesta": "151",
+"incorrecta1": "149",
+"incorrecta2": "150",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Quién es el legendario  Hiroshi Yamauchi?",
+"respuesta": "El presidente de Nintendo",
+"incorrecta1": "El creador de ‘Silent Hill’",
+"incorrecta2": "El creador de ‘Metal Gear Solid’",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál fue la primera versión en 3D de ‘Grand Theft Auto’?",
+"respuesta": "GTA III",
+"incorrecta1": "GTA Vice City",
+"incorrecta2": "GTA San Andreas",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿El efecto de sonido ‘Wololo’ a qué juego hace referencia?",
+"respuesta": "Age of Empires",
+"incorrecta1": "Warcraft",
+"incorrecta2": "League of Legends",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿En qué juego apareció por primera vez Mario Bros?",
+"respuesta": "Donkey Kong",
+"incorrecta1": "Super Mario Bros",
+"incorrecta2": "Super Mario Land",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Qué es Raccoon City?",
+"respuesta": "La ciudad origen de Resident Evil",
+"incorrecta1": "La ciudad mayor de Sim City",
+"incorrecta2": "La ciudad de Batman Arkham City",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál de estos videojuegos fue creado por Satoru Iwata, expresidente de Nintendo?",
+"respuesta": "Balloon Fight",
+"incorrecta1": "Pokemon Stadium",
+"incorrecta2": "Mario Bros",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuál título ha sido proclamado como el ‘peor videojuego de la historia’?",
+"respuesta": "ET, el extraterrestre",
+"incorrecta1": "Superman 64",
+"incorrecta2": "Batman: Arkham Knight’ para PC",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "El ‘jefe maestro’ es:",
+"respuesta": "El protagonista de Halo",
+"incorrecta1": "El creador de los mundos de Mario",
+"incorrecta2": "El jefe de carreras de Need for Speed",
+"objectfit": "cover"
+},
+{
+"categoria": "videojuegos",
+"pregunta": "¿Cuáles juegos son exclusivos de Playstation?",
+"respuesta": "Little Big Planet, God of War, The Last of Us",
+"incorrecta1": "Gran Turismo, Assassins Creed, Infamous",
+"incorrecta2": "Uncharted, PES, Metal Gear Solid",
+"objectfit": "cover"
+}
+]

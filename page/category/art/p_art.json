@@ -1,0 +1,554 @@
+[
+    {
+        "categoria": "Arte",
+        "pregunta": "¿QUIÉN DIRIGIÓ LA PELÍCULA “EL SECRETO DE SUS OJOS”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué músico era conocido como “Satchmo”?",
+        "respuesta": "LOUIS ARMSTRONG",
+        "incorrecta1": "Ray Charles",
+        "incorrecta2": "Duke Ellington",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Gregorío Samsa es el protagonista de una obra de Kafka. ¿De cuál?",
+        "respuesta": " LA METAMORFOSIS",
+        "incorrecta1": "Santa María de los Ángeles",
+        "incorrecta2": "El Duomo de Milán",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿La construcción de la cúpula de qué iglesia proyectó y dirigió Miguel Angel?",
+        "respuesta": "SAN PEDRO",
+        "incorrecta1": "Santa María de los Ángeles",
+        "incorrecta2": "El Duomo de Milán",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién decoró la bóveda de la Capilla Sixtina?",
+        "respuesta": "MIGUEL ÁNGEL",
+        "incorrecta1": "Rafael",
+        "incorrecta2": "El Greco",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Moby Dick, ¿era el nombre de la ballena, del narrador o del capitán que la persigue?",
+        "respuesta": "DE LA BALLENA",
+        "incorrecta1": "Del narrador",
+        "incorrecta2": "Del capitán",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llamaba la prometida de Hamlet?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "De los fantasmas",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿De qué huían los personajes del “Decamerón” de Bocaccio?",
+        "respuesta": "DE LA PESTE",
+        "incorrecta1": "De los fantasmas",
+        "incorrecta2": "De la guerra",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llama el doctor que crea el monstruo en la novela “Frankenstein” de Mary Shelley?",
+        "respuesta": "DOCTOR FRANKENSTEIN",
+        "incorrecta1": "Doctor Van Helsing",
+        "incorrecta2": "Doctor Zhivago",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿En que siglo nació Velázquez?",
+        "respuesta": "SIGLO XVII",
+        "incorrecta1": "SIGLO XVIII",
+        "incorrecta2": "SIGLO XXX",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién fue, por un día, gobernador de la ínsula de Barataria?",
+        "respuesta": "SANCHO PANZA",
+        "incorrecta1": "Don Quijote",
+        "incorrecta2": "El Rey Arturo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dijo “Solo sé que no sé nada”?",
+        "respuesta": "SÓCRATES",
+        "incorrecta1": "Aristóteles",
+        "incorrecta2": "Galileo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién sacó a Excalibur de una roca?",
+        "respuesta": "EL REY ARTURO",
+        "incorrecta1": "Robin Hood",
+        "incorrecta2": "Merlín el Mago",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿En qué país nació Alfonsina Storni?",
+        "respuesta": "SUIZA",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Uruguay",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es el único “beatle” que en la portada de “Let it be” no tiene bigotes?",
+        "respuesta": "JOHN LENNON",
+        "incorrecta1": "Ringo Starr",
+        "incorrecta2": "Paul McCartney",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "El músico estadounidense Louis Armstrong, ¿qué instrumento tocaba?",
+        "respuesta": "TROMPETA",
+        "incorrecta1": "Saxofón",
+        "incorrecta2": "Trombón",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién se ocultaba en el bosque de Sherwood?",
+        "respuesta": "ROBIN HOOD",
+        "incorrecta1": "Guillermo Tell",
+        "incorrecta2": "El Zorro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo llamó Colón a la isla de Cuba cuando la descubrió?",
+        "respuesta": "JUANA",
+        "incorrecta1": "Isabel",
+        "incorrecta2": "Cuba",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuántos dedos tiene un minion en cada mano?",
+        "respuesta": "TRES",
+        "incorrecta1": "Cuatro",
+        "incorrecta2": "Cinco",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué famoso cantante sufría de una enfermedad de la piel llamada vitíligo?",
+        "respuesta": "John Lennon",
+        "incorrecta1": "Elvis Presley",
+        "incorrecta2": "MICHAEL JACKSON",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿A qué deporte juega la protagonista del film Intensamente?",
+        "respuesta": "HOCKEY SOBRE HIELO",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Baseball",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es el nombre artístico de Robyn Fenty?",
+        "respuesta": "Rihanna",
+        "incorrecta1": "Cardi B",
+        "incorrecta2": "Ciento treinta",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Con qué otro nombre se conoce a los Países Bajos?",
+        "respuesta": "HOLANDA",
+        "incorrecta1": "Bélgica",
+        "incorrecta2": "Irlanda",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llama a los guías o cargadores contratados para escalar el Everest?",
+        "respuesta": "SHERPAS",
+        "incorrecta1": "Changarines",
+        "incorrecta2": "Everios",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llama la ciencia que estudia los restos fósiles?",
+        "respuesta": "PALEONTOLOGÍA",
+        "incorrecta1": "Arqueología",
+        "incorrecta2": "Biología",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llama el amigo de Martín Fierro?",
+        "respuesta": "CRUZ",
+        "incorrecta1": "Vizcacha",
+        "incorrecta2": "Moreira",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién escribió la novela Moby Dick?",
+        "respuesta": "HERMAN MELVILLE",
+        "incorrecta1": "Edgar",
+        "incorrecta2": "Julio Verne",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué actor interpreta a Arquímedes Puccio en la película “El clan”?",
+        "respuesta": "GUILLERMO FRANCELLA",
+        "incorrecta1": "Federico Luppi",
+        "incorrecta2": "Ricardo Darín",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es el único planeta del sistema solar que gira en sentido contrario a todos los demás?",
+        "respuesta": "VENUS",
+        "incorrecta1": "Tierra",
+        "incorrecta2": "Júpiter",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llama la cría del caballo?",
+        "respuesta": "POTRILLO",
+        "incorrecta1": "Caballeto",
+        "incorrecta2": "Marrano",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿A qué se juega con una pelota con manijas?",
+        "respuesta": "AL PATO",
+        "incorrecta1": "Al polo",
+        "incorrecta2": "Al waterpolo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿En qué provincia está la ciudad de Bahía Blanca?",
+        "respuesta": "EN BUENOS AIRES",
+        "incorrecta1": "En Río Negro",
+        "incorrecta2": "En Chubut",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién marcó el récord olímpico 2012 de los 100 metros llanos?",
+        "respuesta": "USAIN BOLT",
+        "incorrecta1": "Oscar Pistorius",
+        "incorrecta2": "Yohan Blake",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿En qué ciudad obtuvo Carlos Monzón el primer título de Campeón Mundial de los medianos?",
+        "respuesta": "EN ROMA",
+        "incorrecta1": "En Tokio",
+        "incorrecta2": "En Las Vegas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién escribió el libro “Viaje al centro de la Tierra”?",
+        "respuesta": "JULIO VERNE",
+        "incorrecta1": "Edgar A. Poe",
+        "incorrecta2": "H.G.Wells",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "La Malinche fue la amante, consejera e intérprete de ... ¿de quién?",
+        "respuesta": "DE HERNÁN CORTÉS",
+        "incorrecta1": "De Francisco Pizarro",
+        "incorrecta2": "De Vasco Núñez de Balboa",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué semilla comestible se obtiene de la planta Oryza sativa?",
+        "respuesta": "ARROZ",
+        "incorrecta1": "Quinoa",
+        "incorrecta2": "Chía",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Los burritos son un plato típico... ¿de qué país?",
+        "respuesta": "MÉXICO",
+        "incorrecta1": "China",
+        "incorrecta2": "Uruguay",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué se inventó primero?",
+        "respuesta": "FACEBOOK",
+        "incorrecta1": "Twitter",
+        "incorrecta2": "Instagram",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué clase de perro es Beethoven?",
+        "respuesta": "UN SAN BERNARDO",
+        "incorrecta1": "Un dálmata",
+        "incorrecta2": "Un ovejero",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quiénes son los protagonistas de la película 'Pretty Woman'?",
+        "respuesta": "Julia Roberts y Richard Gere",
+        "incorrecta1": "Laura San Giacomo y Richard Gere",
+        "incorrecta2": "Julia Roberts y Alex Hyde-White",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se llamaba el cantante de Queen?",
+        "respuesta": "Freddy Mercury",
+        "incorrecta1": "Roger Taylor",
+        "incorrecta2": "Brian May",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿A qué grupo musical pertenece la canción 'Smells like teen spirit'?",
+        "respuesta": "Nirvana",
+        "incorrecta1": "The beatles",
+        "incorrecta2": "Rolling stone",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién es el protagonista y director de la película 'Ciudadano Kane'?",
+        "respuesta": "Orson Welles",
+        "incorrecta1": "ian mckellen",
+        "incorrecta2": "Dwayne Johnson",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué escritor español era apodado como 'el manco de Lepanto'?",
+        "respuesta": "Miguel de Cervantes",
+        "incorrecta1": "Carlos Ruiz Safón",
+        "incorrecta2": "Rafael Chirbes",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué novela está considerada como el mayor exponente de la literatura española?",
+        "respuesta": "El ingenioso hidalgo Don Quijote de la Mancha",
+        "incorrecta1": "Corazón tan blanco",
+        "incorrecta2": "El proceso",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Notre Dame es una catedral con un estilo arquitectónico muy definido. ¿Cuál?",
+        "respuesta": "Estilo gótico",
+        "incorrecta1": "Estilo románico",
+        "incorrecta2": "Estilo barroco",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "'Ser o no ser, esa es la cuestión' es un soliloquio que pertenece a una obra de Shakespeare. ¿Cómo se llama?",
+        "respuesta": "Hamlet",
+        "incorrecta1": "El mercader de Venecia",
+        "incorrecta2": "Romeo y Julieta",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué animal mitológico da nombre al título de una de las obras más populares de Thomas Hobbes?",
+        "respuesta": "Leviatán",
+        "incorrecta1": "Quetzalcoatl",
+        "incorrecta2": "Behemot",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién es el autor del libro 'La Conjura de los Necios'?",
+        "respuesta": "John Kennedy Toole",
+        "incorrecta1": "Walker Percy",
+        "incorrecta2": "Theodore Dreiser",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Dónde nació Arya Stark, de la saga 'Canción de hielo y Fuego'?",
+        "respuesta": "El continente Westeros",
+        "incorrecta1": "El continente Essos",
+        "incorrecta2": "El continente Ulthos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se titula el clásico de ciencia ficción dirigido por Fritz Lang?",
+        "respuesta": "Metrópolis",
+        "incorrecta1": "Odisea en el espacio",
+        "incorrecta2": "Alien, el octavo pasajero",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es el libro más largo jamás publicado?",
+        "respuesta": "En busca del tiempo perdido",
+        "incorrecta1": "Guerra y paz",
+        "incorrecta2": "Los miserables",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién dirigió la película “El secreto de sus ojos”?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién es la autora de la obra 'Oda a Afrodita'?",
+        "respuesta": "Safo de Mitilene",
+        "incorrecta1": "Alceo de Mitilene",
+        "incorrecta2": "Alcmán",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Quién saltó a la fama en 2008 con el lanzamiento del single 'I Kissed a Girl'?",
+        "respuesta": "Katy Perry",
+        "incorrecta1": "Madonna",
+        "incorrecta2": "Lady Gaga",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuántas cuerdas tiene un violín?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "cinco",
+        "incorrecta2": "siete",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué banda formó el músico inglés Jimmy Page en 1968?",
+        "respuesta": "Led Zeppelin",
+        "incorrecta1": "The Yardbirds",
+        "incorrecta2": "Queen",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuándo nace el reggaetón?",
+        "respuesta": "En el 90",
+        "incorrecta1": "En el 80",
+        "incorrecta2": "En el 2010",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuándo nace el reggaetón?",
+        "respuesta": "JUAN JOSÉ CAMPANELLA",
+        "incorrecta1": "Adrián Caetano",
+        "incorrecta2": "Albertina Carri",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál fue la última canción que Bob Marley tocó en directo?",
+        "respuesta": "Redemption song",
+        "incorrecta1": "Is this love",
+        "incorrecta2": "No woman No cry",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cómo se denomina al subgénero musical del rap que mezcla rap, hip hop y dubstep?",
+        "respuesta": "Trap",
+        "incorrecta1": "Pop",
+        "incorrecta2": "Ninguna",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Qué famosa cantante americana ha ganado un Oscar por la canción 'Shallow'?",
+        "respuesta": "Lady Gaga",
+        "incorrecta1": "Katy Perry",
+        "incorrecta2": "Miley Cyrus",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "¿Cuál es el nombre de pila del compositor clásico Vivaldi?",
+        "respuesta": "Antonio",
+        "incorrecta1": "Esteban",
+        "incorrecta2": "Juan",
+        "objectFit": "cover"
+    }
+]

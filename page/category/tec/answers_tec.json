@@ -1,0 +1,986 @@
+[
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuándo apareció Windows 7?",
+        "respuesta": "2003",
+        "incorrecta1": "1999",
+        "incorrecta2": "2009",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuáles son los requisitos mínimos del sistema para usar Windows 7 en las computadoras?",
+        "respuesta": "Tener procesador, memoria y espacio",
+        "incorrecta1": "Ser mayor de 25 años",
+        "incorrecta2": "Tener todos los programas y software",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es el escritorio?",
+        "respuesta": "Área de trabajo que ocupa toda la pantalla",
+        "incorrecta1": "Área de espacio de ocupación personal",
+        "incorrecta2": "Área de espacio de trabajo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué funciones tiene el mouse?",
+        "respuesta": "Permite seleccionar y ejecutar",
+        "incorrecta1": "Permite mover y ejecutar",
+        "incorrecta2": "Permite realizar cambios dentro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para remover un elemento de la Jump list, qué necesitas?",
+        "respuesta": "Hacer clic con el botón derecho sobre el elemento de la lista a eliminar",
+        "incorrecta1": "Programar la ejecución, ejecutar y finalizar",
+        "incorrecta2": "Seleccionar, eliminar y borrar",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuáles son las 4 bibliotecas de Windows 7?",
+        "respuesta": "Imágenes, Documentos, Música y Video",
+        "incorrecta1": "Música, video, archivo, descargas",
+        "incorrecta2": "Documentos, archivos, equipo, descargas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para poder almacenar archivos en la biblioteca necesitas?",
+        "respuesta": "Hacer una carpeta",
+        "incorrecta1": "Realizar un documento",
+        "incorrecta2": "Subirlo primero a la nube ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para qué sirven las copias de Seguridad?",
+        "respuesta": "Para respaldar la información del sistema",
+        "incorrecta1": "Para proteger al sistema",
+        "incorrecta2": "Para ver información del sistema",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es la función del centro de actividades?",
+        "respuesta": "Permite al usuario ver alertas y realizar acciones",
+        "incorrecta1": "Visualización de información",
+        "incorrecta2": "Donde puedes operar fácilmente",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué se necesita para visualizar mensajes del centro de actividades?",
+        "respuesta": "Hacer clic en centro de actividades",
+        "incorrecta1": "Abrir Centro de redes",
+        "incorrecta2": "Abrir PowerPoint",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es Firewall?",
+        "respuesta": "Un sistema de defensa",
+        "incorrecta1": "Es un sistema malicioso",
+        "incorrecta2": "Un metodo de prevencion",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es un software que previene, detecta y realiza acciones pertinentes para borrar y eliminar software malintencionado.",
+        "respuesta": "Antivirus",
+        "incorrecta1": "Freeware",
+        "incorrecta2": "Libre",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Una forma de optimizar el desempeño de la computadora es usando el...",
+        "respuesta": "Centro de actividades",
+        "incorrecta1": "Ready Boost",
+        "incorrecta2": "Barra de Tareas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para qué sirve un pendrive?",
+        "respuesta": "Para guardar información en un dispositivo externo",
+        "incorrecta1": "Para guardar información en un dispositivo externo",
+        "incorrecta2": "Para ejecutar páginas web",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué debo hacer antes de ordenar 'reiniciar ahora y comprobar si existen problemas'?",
+        "respuesta": "Guardar y cerrar todos los archivos",
+        "incorrecta1": "No guardar nada",
+        "incorrecta2": "Dejar archivos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Se define como el conjunto de los componentes o dispositivos físicos que intervienen en un sistema computacional.",
+        "respuesta": "Hardware",
+        "incorrecta1": "Software",
+        "incorrecta2": "Humanware",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Son aquellos dispositivos que a través de ellos la información es introducida a la computadora para ser procesada o transformada.",
+        "respuesta": "Periféricos de entrada",
+        "incorrecta1": "Periféricos de salida",
+        "incorrecta2": "Dispositivo de inicio",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Son aquellos elementos que muestran al usuario los datos ya transformados o procesados.",
+        "respuesta": "Dispositivo de salida",
+        "incorrecta1": "Procesador",
+        "incorrecta2": "Dispositivos de entrada",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es un elemento básico e indispensable hoy en día.",
+        "respuesta": "Celular",
+        "incorrecta1": "Televisor",
+        "incorrecta2": "Impresora",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Procesa y guarda información",
+        "respuesta": "Pendrive",
+        "incorrecta1": "CPU",
+        "incorrecta2": "Teclado",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Esta memoria actúa directamente con la CPU en todas las operaciones de entrada y salida.",
+        "respuesta": "RAM Y ROM",
+        "incorrecta1": "RAM Y SSD",
+        "incorrecta2": "ROM Y FLASH",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es Read Only Memory?",
+        "respuesta": "ROM",
+        "incorrecta1": "RAM",
+        "incorrecta2": "RMO",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué significa Random Access Memory?",
+        "respuesta": "CPU",
+        "incorrecta1": "ROM",
+        "incorrecta2": "RAM",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es el botón que da acceso al menú de inicio?",
+        "respuesta": "Menú principal",
+        "incorrecta1": "Botón de acceso rápido",
+        "incorrecta2": "Menú desplegable",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Muestran las aplicaciones que están en ejecución en ese momento y la aplicación activa mediante un botón.",
+        "respuesta": "Administrador de tareas",
+        "incorrecta1": "Área de aplicación en ejecución",
+        "incorrecta2": "Área activas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Contiene iconos de acceso directo a programas",
+        "respuesta": "Escritorio",
+        "incorrecta1": "Documentos",
+        "incorrecta2": "Imágenes",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuándo apareció Windows 7?",
+        "respuesta": "2003",
+        "incorrecta1": "1999",
+        "incorrecta2": "2009",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuáles son los requisitos mínimos del sistema para usar Windows 7 en las computadoras?",
+        "respuesta": "Tener procesador, memoria y espacio",
+        "incorrecta1": "Ser mayor de 25 años",
+        "incorrecta2": "Tener todos los programas y software",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es el escritorio?",
+        "respuesta": "Área de trabajo que ocupa toda la pantalla",
+        "incorrecta1": "Área de espacio de ocupación personal",
+        "incorrecta2": "Área de espacio de trabajo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué funciones tiene el mouse?",
+        "respuesta": "Permite seleccionar y ejecutar",
+        "incorrecta1": "Permite mover y ejecutar",
+        "incorrecta2": "Permite realizar cambios dentro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para remover un elemento de la Jump list, qué necesitas?",
+        "respuesta": "Hacer clic con el botón derecho sobre el elemento de la lista a eliminar",
+        "incorrecta1": "Programar la ejecución, ejecutar y finalizar",
+        "incorrecta2": "Seleccionar, eliminar y borrar",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuáles son las 4 bibliotecas de Windows 7?",
+        "respuesta": "Imágenes, Documentos, Música y Video",
+        "incorrecta1": "Música, video, archivo, descargas",
+        "incorrecta2": "Documentos, archivos, equipo, descargas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para poder almacenar archivos en la biblioteca necesitas?",
+        "respuesta": "Hacer una carpeta",
+        "incorrecta1": "Realizar un documento",
+        "incorrecta2": "Subirlo primero a la nube ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para qué sirven las copias de Seguridad?",
+        "respuesta": "Para respaldar la información del sistema",
+        "incorrecta1": "Para proteger al sistema",
+        "incorrecta2": "Para ver información del sistema",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es la función del centro de actividades?",
+        "respuesta": "Permite al usuario ver alertas y realizar acciones",
+        "incorrecta1": "Visualización de información",
+        "incorrecta2": "Donde puedes operar fácilmente",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué se necesita para visualizar mensajes del centro de actividades?",
+        "respuesta": "Hacer clic en centro de actividades",
+        "incorrecta1": "Abrir Centro de redes",
+        "incorrecta2": "Abrir PowerPoint",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es Firewall?",
+        "respuesta": "Un sistema de defensa",
+        "incorrecta1": "Es un sistema malicioso",
+        "incorrecta2": "Un metodo de prevencion",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es un software que previene, detecta y realiza acciones pertinentes para borrar y eliminar software malintencionado.",
+        "respuesta": "Antivirus",
+        "incorrecta1": "Freeware",
+        "incorrecta2": "Libre",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Una forma de optimizar el desempeño de la computadora es usando el...",
+        "respuesta": "Centro de actividades",
+        "incorrecta1": "Ready Boost",
+        "incorrecta2": "Barra de Tareas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para qué sirve un pendrive?",
+        "respuesta": "Para guardar información en un dispositivo externo",
+        "incorrecta1": "Para guardar información en un dispositivo externo",
+        "incorrecta2": "Para ejecutar páginas web",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué debo hacer antes de ordenar 'reiniciar ahora y comprobar si existen problemas'?",
+        "respuesta": "Guardar y cerrar todos los archivos",
+        "incorrecta1": "No guardar nada",
+        "incorrecta2": "Dejar archivos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Se define como el conjunto de los componentes o dispositivos físicos que intervienen en un sistema computacional.",
+        "respuesta": "Hardware",
+        "incorrecta1": "Software",
+        "incorrecta2": "Humanware",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Son aquellos dispositivos que a través de ellos la información es introducida a la computadora para ser procesada o transformada.",
+        "respuesta": "Periféricos de entrada",
+        "incorrecta1": "Periféricos de salida",
+        "incorrecta2": "Dispositivo de inicio",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Son aquellos elementos que muestran al usuario los datos ya transformados o procesados.",
+        "respuesta": "Dispositivo de salida",
+        "incorrecta1": "Procesador",
+        "incorrecta2": "Dispositivos de entrada",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es un elemento básico e indispensable hoy en día.",
+        "respuesta": "Celular",
+        "incorrecta1": "Televisor",
+        "incorrecta2": "Impresora",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Procesa y guarda información",
+        "respuesta": "Pendrive",
+        "incorrecta1": "CPU",
+        "incorrecta2": "Teclado",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Esta memoria actúa directamente con la CPU en todas las operaciones de entrada y salida.",
+        "respuesta": "RAM Y ROM",
+        "incorrecta1": "RAM Y SSD",
+        "incorrecta2": "ROM Y FLASH",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es Read Only Memory?",
+        "respuesta": "ROM",
+        "incorrecta1": "RAM",
+        "incorrecta2": "RMO",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué significa Random Access Memory?",
+        "respuesta": "CPU",
+        "incorrecta1": "ROM",
+        "incorrecta2": "RAM",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es el botón que da acceso al menú de inicio?",
+        "respuesta": "Menú principal",
+        "incorrecta1": "Botón de acceso rápido",
+        "incorrecta2": "Menú desplegable",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Muestran las aplicaciones que están en ejecución en ese momento y la aplicación activa mediante un botón.",
+        "respuesta": "Administrador de tareas",
+        "incorrecta1": "Área de aplicación en ejecución",
+        "incorrecta2": "Área activas",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Contiene iconos de acceso directo a programas",
+        "respuesta": "Escritorio",
+        "incorrecta1": "Documentos",
+        "incorrecta2": "Imágenes",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿La placa base es una parte física o digital del PC?",
+        "respuesta": "Es física",
+        "incorrecta1": "Es digital",
+        "incorrecta2": "Son correctas la A y la B",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es la unidad central de proceso de un ordenador?",
+        "respuesta": "CPU",
+        "incorrecta1": "Tarjeta SD",
+        "incorrecta2": "Microprocesador",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuántos Bytes son un Gigabyte?",
+        "respuesta": "10^6 bytes",
+        "incorrecta1": "10^3 bytes",
+        "incorrecta2": "10 bytes",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuáles son las unidades de almacenamiento?",
+        "respuesta": "Disco duro, disquete, DVD, CD-ROM",
+        "incorrecta1": "Disco duro, Memoria ROM, Memoria RAM, CD-ROM",
+        "incorrecta2": "Memoria ROM, Memoria RAM, disco duro, disquete",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Para qué sirve la tarjeta gráfica?",
+        "respuesta": "Para procesar los datos provenientes de la unidad central de procesamiento",
+        "incorrecta1": "Proyectar imágenes",
+        "incorrecta2": "Almacenar información",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál de estas oraciones es falsa?",
+        "respuesta": "La memoria RAM permite solo lectura",
+        "incorrecta1": "La memoria ROM puede ser FLASH o EPROM",
+        "incorrecta2": "El disco duro es una unidad de almacenamiento interno.",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Proteja archivos, carpetas y discos en caso de robo o pérdida del equipo",
+        "respuesta": "Cifrado",
+        "incorrecta1": "Comprimido",
+        "incorrecta2": "Ocultado",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "El sistema operativo que se utiliza en servidores o supercomputadoras",
+        "respuesta": "Linux",
+        "incorrecta1": "ROM",
+        "incorrecta2": "CPU",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Comprende cómo comunicarse con los distintos dispositivos de hardware conectados al equipo",
+        "respuesta": "Driver",
+        "incorrecta1": "CPU",
+        "incorrecta2": "Software",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es un software informático que se implementa en múltiples plataformas informáticas",
+        "respuesta": "cross-platform",
+        "incorrecta1": "backup",
+        "incorrecta2": "copyright",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Selecciona un tipo de SOFTWARE:",
+        "respuesta": "PAINT",
+        "incorrecta1": "MOUSE",
+        "incorrecta2": "PANTALLA",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "El siguiente formato de archivo (.rar) corresponde:",
+        "respuesta": "Archivo comprimido",
+        "incorrecta1": "Archivo de audio",
+        "incorrecta2": "Documento de texto",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " Es el tipo de programas por lo que requieres hacer el pago de una licencia para usarlos",
+        "respuesta": "Software privado",
+        "incorrecta1": "Software Libre",
+        "incorrecta2": "Android",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Software en el que los usuarios tienen permiso para copiar, usar y modificar sin penalización",
+        "respuesta": "Software Libre",
+        "incorrecta1": "Software freewere",
+        "incorrecta2": "Software Semi-libre",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué es software?",
+        "respuesta": "Todas las anteriores",
+        "incorrecta1": "Parte intangible del Pc",
+        "incorrecta2": "Componente del computador",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Los tipos de software son:",
+        "respuesta": "De  sistema, de aplicación, de programación y utilidades",
+        "incorrecta1": "De sistema, de aplicación,de programación",
+        "incorrecta2": "De comercio",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Los componentes del computador son:",
+        "respuesta": "Hardware y software",
+        "incorrecta1": "Software y freeware",
+        "incorrecta2": "Torre,teclado,mouse, monitor",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Su principal función es eliminar todos los archivos no utilizados y temporales",
+        "respuesta": "Liberador de espacio",
+        "incorrecta1": "Antivirus",
+        "incorrecta2": "Sistema operativo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "El _________ restablece el orden en la superficie del disco duro.",
+        "respuesta": " Desfragmentador",
+        "incorrecta1": "Firewall",
+        "incorrecta2": "Antivirus",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "El ________ permite proteger a una computadora o una red de computadoras de intrusiones",
+        "respuesta": "Firewall",
+        "incorrecta1": "Antivirus",
+        "incorrecta2": "Antispam",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Programa fundamental que después de arrancado la computadora se encarga de gestionar todos los recursos.",
+        "respuesta": "Sistema operativo",
+        "incorrecta1": "Mantenimiento preventivo",
+        "incorrecta2": "Antispyware",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Se le conoce como el método para prevenir el correo basura",
+        "respuesta": "Antispam",
+        "incorrecta1": "Antispyware",
+        "incorrecta2": "Firewall",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Son programas cuyo objetivo es detectar o eliminar virus informáticos",
+        "respuesta": "Antivirus",
+        "incorrecta1": "Mantenimiento",
+        "incorrecta2": "Desfragmentador",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cómo se llama el conjunto de componentes físicos de una computadora?",
+        "respuesta": "HARDWARE",
+        "incorrecta1": "POWER POINT",
+        "incorrecta2": "TECLADO",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es el atributo que se aplica a las carpetas para que no tengan acceso las personas extrañas?",
+        "respuesta": "Oculto",
+        "incorrecta1": "Escondido",
+        "incorrecta2": "Invisible",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cómo se llama la interfaz que presenta Microsoft Windows?",
+        "respuesta": "Escritorio",
+        "incorrecta1": "Tapiz",
+        "incorrecta2": "Fondo de pantalla",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál de los siguientes dispositivos es de entrada de datos al computador?",
+        "respuesta": "Altavoz",
+        "incorrecta1": "Ratón",
+        "incorrecta2": " Pantalla ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "La velocidad del procesador se mide en:",
+        "respuesta": "Bytes",
+        "incorrecta1": "Km/h ",
+        "incorrecta2": "píxeles",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " Los dispositivos que utilizamos para la interconexión son :",
+        "respuesta": "Hub, router, bridge, switch, servidor",
+        "incorrecta1": "Routers, bridge, hub",
+        "incorrecta2": "ninguna es correcta",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Cual de las siguientes palabras esta escrita de manera correcta?",
+        "respuesta": "Software",
+        "incorrecta1": "Sotfware",
+        "incorrecta2": "Softwar",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cual de las siguientes palabras esta escrita de manera correcta?",
+        "respuesta": "Hardware",
+        "incorrecta1": "Harware",
+        "incorrecta2": "Hartware",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Ejemplos de dispositivos de almacenamiento?",
+        "respuesta": "SD, DVD, BLU-RAY, USB",
+        "incorrecta1": "CD, DVD, CPU, PVC",
+        "incorrecta2": "SD, DVD, PVC, PC",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Funcion del Hardware",
+        "respuesta": "Permitir la entrada, salida y almacenamiento y transporte de los datos y la información",
+        "incorrecta1": "Administra las funciones de los ordenadores para hacer mas fácil el proceso de hacer cálculos, visualizar, editar o jugar",
+        "incorrecta2": "Limpia tu computadora totalmente para que este libre de códigos maliciosos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es la parte de la computadora donde vemos las imágenes",
+        "respuesta": "MONITOR",
+        "incorrecta1": "CPU",
+        "incorrecta2": "TECLADO",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cuál es la capa del modelo OSI que garantiza la entrega de mensajes de extremo a extremo?",
+        "respuesta": "transporte",
+        "incorrecta1": "física",
+        "incorrecta2": "aplicación",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "La fibra óptica se relaciona con la capa OSI:",
+        "respuesta": "física",
+        "incorrecta1": "red",
+        "incorrecta2": "aplicación",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "TCP es un protocolo de la capa:",
+        "respuesta": "transporte",
+        "incorrecta1": "enlace",
+        "incorrecta2": "aplicación",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Cuando se habla de par trenzado se habla de capa:aplicación",
+        "respuesta": "fisica",
+        "incorrecta1": "aplicación",
+        "incorrecta2": "red",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "La capa 2 del modelo OSI es llamada capa de:",
+        "respuesta": "enlace",
+        "incorrecta1": "red",
+        "incorrecta2": "aplicacion",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "La capa 7 del modelo OSI es llamada capa de:",
+        "respuesta": "aplicación",
+        "incorrecta1": "red",
+        "incorrecta2": "enlace",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "El término trama hace referencia a la capa",
+        "respuesta": "enlace",
+        "incorrecta1": "fisica",
+        "incorrecta2": "red",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Dispositivo capa 3:",
+        "respuesta": "Router",
+        "incorrecta1": "MAC",
+        "incorrecta2": "Cable Coaxial",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " Dispositivo que opera en la capa Enlace de datos",
+        "respuesta": "Puente",
+        "incorrecta1": "Repetidora",
+        "incorrecta2": "Hub",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Seleccione en que capa puede estar un problema de conflicto de direcciones IP",
+        "respuesta": "Red",
+        "incorrecta1": "Transporte",
+        "incorrecta2": "Sesión",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Es la encargada de la transmicion de bits, debe asegurarse de si un bit es enviado y que este sea recibido",
+        "respuesta": "CAPA FISICA",
+        "incorrecta1": "CAPA DE ENLACE",
+        "incorrecta2": "CAPA DE RED",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "LA TAREA PRIMORDIAL DE ESTA CAPA ES LA CORRECCION DE ERRORES",
+        "respuesta": "CAPA DE ENLACE",
+        "incorrecta1": "CAPA DE RED",
+        "incorrecta2": "CAPA DE TRANSPORTE",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "ESTA CAPA SE OCUPA DEL CONTROL DE LA OPERACION DE LA SUB-RED",
+        "respuesta": "CAPA DE RED",
+        "incorrecta1": "CAPA DE APLICACION",
+        "incorrecta2": "CAPA DE ENLACE",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "ESTA CAPA PERMITE QUE LOS USUARIOS DE DIFERENTES MAQUINAS PUEDAN ESTABLECER CONEXION ENTRE ELLOS",
+        "respuesta": "CAPA DE SESION",
+        "incorrecta1": "CAPA DE PRESENTACION",
+        "incorrecta2": "CAPA DE ENLACE",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "ESTA CAPA PERMITE DEFINIR UN TERMINAL VIRTUAL",
+        "respuesta": "CAPA DE APLICACION",
+        "incorrecta1": "CAPA DE SESION",
+        "incorrecta2": "CAPA DE RED",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " ESTA CAPA SE OCUPA DE LOS ASPECTOS DE SINTAXIS Y SEMANTICA DE LA INFORMACION QUE SE TRANSMITE",
+        "respuesta": "CAPA PRESENTACION",
+        "incorrecta1": "CAPA DE RED",
+        "incorrecta2": "CAPA DE ENLACE",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿que es hardware?",
+        "respuesta": "la parte fisica del ordenador",
+        "incorrecta1": "el cerebro del ordenador",
+        "incorrecta2": "la parte logica de tu ordenador ",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "la unidad de medida mas pequeña de la informacion es:",
+        "respuesta": "bit",
+        "incorrecta1": "amperio",
+        "incorrecta2": " megabyte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "los perifericos pueden ser",
+        "respuesta": "salida y de entrada",
+        "incorrecta1": "lectura y de escritura",
+        "incorrecta2": "almacenamiento.",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Sirve para escribir en la computadora?",
+        "respuesta": " TECLADO",
+        "incorrecta1": "PANTALLA",
+        "incorrecta2": "MOUSE",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Sirve para visualizar vídeos en la computadora",
+        "respuesta": "PANTALLA",
+        "incorrecta1": "AUDIFONOS",
+        "incorrecta2": "PARLANTES",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "el disco duro es una unidad de almacenamiento",
+        "respuesta": "si",
+        "incorrecta1": "no",
+        "incorrecta2": "depende del tipo de disco duro",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " Son los programas y apps de los dispositivos y equipos de cómputo",
+        "respuesta": "Software",
+        "incorrecta1": "Hardware",
+        "incorrecta2": "Sistema operativo",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Los lenguajes de programación son software:",
+        "respuesta": "Desarrollo",
+        "incorrecta1": "Programación",
+        "incorrecta2": "Básico de sistema",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Microsoft Office es un software:",
+        "respuesta": "Aplicación general",
+        "incorrecta1": "Desarrollo",
+        "incorrecta2": "Aplicación específica",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Qué tipo de shell presenta Microsoft Windows?",
+        "respuesta": "Interfaz gráfica de usuario",
+        "incorrecta1": "Línea de comandos",
+        "incorrecta2": "Gráfica",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cómo organizamos nuestra información en la computadora?",
+        "respuesta": "Carpetas y archivos",
+        "incorrecta1": "Carpetas",
+        "incorrecta2": "Archivos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Cuál de estos protocolos pertenece a la capa 2?",
+        "respuesta": "ATM",
+        "incorrecta1": "ARP",
+        "incorrecta2": "HTTP",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿LLC es un elemento de qué capa?",
+        "respuesta": "capa2",
+        "incorrecta1": "capa1",
+        "incorrecta2": "capa4",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "Cuál de todos estos protocolos es no orientado a conexión?",
+        "respuesta": "IP",
+        "incorrecta1": "DHCP",
+        "incorrecta2": "TCP",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " La encriptación/desencriptación de datos la realiza la capa",
+        "respuesta": "PRESENTACION",
+        "incorrecta1": "TRANSPORTE",
+        "incorrecta2": "SESION",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "RPC NLS y SQL normalmente trabajan en la capa de...",
+        "respuesta": "SESION",
+        "incorrecta1": "PRESENTACION",
+        "incorrecta2": "APLICACIÓN",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "La capa de enlace produce......",
+        "respuesta": "TRAMAS",
+        "incorrecta1": "DATAGRAMAS",
+        "incorrecta2": "SEGMENTOS",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "CSMA es accesos múltiples con detección de portadora y /CD?",
+        "respuesta": "DETECCION DE COLISIONES",
+        "incorrecta1": "PERMITE COLISIONES",
+        "incorrecta2": "EVITAR COLISIONES",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "A qué se llama socket?",
+        "respuesta": "Puerto+ IP",
+        "incorrecta1": "Puerto + Mac address",
+        "incorrecta2": "Mac address + IP",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": " La capa de aplicación de TCP/IP comprende ¿qué capas del modelo OSI?",
+        "respuesta": "Sesión-presentación-aplicación",
+        "incorrecta1": "Aplicación.transporte-red",
+        "incorrecta2": "Física-sesión-transporte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tecnologia",
+        "pregunta": "¿Cual/es de estos concentradores de comunicaciones puede separar dominios de broadcast?",
+        "respuesta": "Router",
+        "incorrecta1": "Hub",
+        "incorrecta2": "SWITCH",
+        "objectFit": "cover"
+    }
+]    

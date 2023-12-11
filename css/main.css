@@ -1,0 +1,422 @@
+
+* {
+    transition: all 0.3s;
+}
+html{
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(19deg, #18c7e6 0%, #d830d0 100%);
+    padding: 0;
+    margin: 5%;
+    text-align: center;
+    font-family: Consolas, monaco, monospace;
+}
+.conteiner{
+    font-size: 200%;
+    position: absolute;
+    margin: auto;
+    width: 26%;
+    height: 450px;
+    border-radius: 5px;
+    background: rgba(3,3,3,0.25);
+    box-shadow: 1px 1px 50px #000;
+    top: 25%;
+    left: 35%;
+}
+.img{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 30%;
+    top: 50%;
+    background-image: url(../img/logo-1.png);
+    background-repeat: no-repeat;
+}
+.user{
+    position: absolute;
+    bottom: 80%;
+    right: 36%;
+    text-align: right;
+    transform: scale(1.05);
+    color: tomato;
+}
+.close{
+    color: tomato;
+    text-decoration: none;
+    position: absolute;
+    bottom: 72%;
+    right: 28%;
+    text-align: right;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.start{
+    font-size: 85%;
+    font-family: Consolas, monaco, monospace;
+    max-width: 550px;
+    width: 35%;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    bottom: 60%;
+    left: 10%;
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 30px;
+
+}
+.start:hover {
+    transform: scale(1.30);
+}
+
+.ranking{
+    font-size: 85%;
+    font-family: Consolas, monaco, monospace;
+    max-width: 550px;
+    width: 35%;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    bottom: 60%;
+    right: 10%;
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 30px;
+}
+.ranking:hover {
+    transform: scale(1.30);
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+    .conteiner{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 400px;
+        border-radius: 5px;
+        background: rgba(3,3,3,0.25);
+        box-shadow: 1px 1px 50px #000;
+        top: 5%;
+        left: 5%;
+    }
+    .img{
+        position: absolute;
+        width: 70%;
+        height: 50%;
+        left: 15%;
+        top: 50%;
+        background-image: url(../img/logo-1.png);
+        background-repeat: no-repeat;
+    }
+    .user{
+        font-size: 80%;
+        position: absolute;
+        bottom: 80%;
+        left: 35%;
+        text-align: right;
+        transform: scale(1.05);
+        color: tomato;
+    }
+    .close{
+        font-size: 80%;
+        color: tomato;
+        text-decoration: none;
+        position: absolute;
+        bottom: 71%;
+        right: 17%;
+        text-align: right;
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+    
+    .start{
+        font-size: 65%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 50%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 30%;
+        left: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    
+    }
+    .start:hover {
+        transform: scale(1.05);
+    }
+    
+    .ranking{
+        font-size: 65%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 43%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 30%;
+        right: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    }
+    .ranking:hover {
+        transform: scale(1.05);
+    }
+}
+
+@media (min-width: 360px) and (max-width: 640px){
+    .conteiner{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 400px;
+        border-radius: 5px;
+        background: rgba(3,3,3,0.25);
+        box-shadow: 1px 1px 50px #000;
+        top: 15%;
+        left: 5%;
+    }
+    .img{
+        position: absolute;
+        width: 62%;
+        height: 60%;
+        left: 20%;
+        top: 52%;
+        background-image: url(../img/logo-1.png);
+        background-repeat: no-repeat;
+    }
+    .user{
+        font-size: 80%;
+        position: absolute;
+        bottom: 80%;
+        left: 30%;
+        text-align: right;
+        transform: scale(1.05);
+        color: tomato;
+    }
+    .close{
+        font-size: 80%;
+        color: tomato;
+        text-decoration: none;
+        position: absolute;
+        bottom: 71%;
+        right: 20%;
+        text-align: right;
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+    
+    .start{
+        font-size: 70%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 50%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 30%;
+        left: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    
+    }
+    .start:hover {
+        transform: scale(1.10);
+    }
+    
+    .ranking{
+        font-size: 70%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 43%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 30%;
+        right: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    }
+    .ranking:hover {
+        transform: scale(1.10);
+    }
+}
+
+@media (min-width: 720px) and (max-width: 1280px){
+    .conteiner{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 700px;
+        border-radius: 5px;
+        background: rgba(3,3,3,0.25);
+        box-shadow: 1px 1px 50px #000;
+        top: 20%;
+        left: 5%;
+    }
+    .img{
+        position: absolute;
+        width: 65%;
+        height: 65%;
+        left: 35%;
+        top: 65%;
+        background-image: url(../img/logo-1.png);
+        background-repeat: no-repeat;
+    }
+    .user{
+        font-size: 170%;
+        position: absolute;
+        bottom: 80%;
+        left: 35%;
+        text-align: right;
+        transform: scale(1.05);
+        color: tomato;
+    }
+    .close{
+        font-size: 170%;
+        color: tomato;
+        text-decoration: none;
+        position: absolute;
+        bottom: 71%;
+        right: 20%;
+        text-align: right;
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+    
+    .start{
+        font-size: 150%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 50%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 25%;
+        left: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    
+    }
+    .start:hover {
+        transform: scale(1.07);
+    }
+    
+    .ranking{
+        font-size: 150%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 43%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 25%;
+        right: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    }
+    .ranking:hover {
+        transform: scale(1.07);
+    }
+}
+@media (min-width: 740px) and (max-width: 1600px){
+    .conteiner{
+        position: absolute;
+        margin: auto;
+        width: 90%;
+        height: 700px;
+        border-radius: 5px;
+        background: rgba(3,3,3,0.25);
+        box-shadow: 1px 1px 50px #000;
+        top: 20%;
+        left: 5%;
+    }
+    .img{
+        position: absolute;
+        width: 65%;
+        height: 65%;
+        left: 35%;
+        top: 65%;
+        background-image: url(../img/logo-1.png);
+        background-repeat: no-repeat;
+    }
+    .user{
+        font-size: 170%;
+        position: absolute;
+        bottom: 80%;
+        left: 35%;
+        text-align: right;
+        transform: scale(1.05);
+        color: tomato;
+    }
+    .close{
+        font-size: 170%;
+        color: tomato;
+        text-decoration: none;
+        position: absolute;
+        bottom: 71%;
+        right: 20%;
+        text-align: right;
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+    
+    .start{
+        font-size: 150%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 50%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 25%;
+        left: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    
+    }
+    .start:hover {
+        transform: scale(1.07);
+    }
+    
+    .ranking{
+        font-size: 150%;
+        font-family: Consolas, monaco, monospace;
+        max-width: 550px;
+        width: 43%;
+        padding: 10px;
+        color: black;
+        text-decoration: none;
+        position: absolute;
+        bottom: 25%;
+        right: 2%;
+        cursor: pointer;
+        border: 1px solid red;
+        border-radius: 30px;
+    }
+    .ranking:hover {
+        transform: scale(1.07);
+    }
+}
